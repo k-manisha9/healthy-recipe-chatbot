@@ -58,47 +58,57 @@ RecipeChatbot/
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-
 ```bash
+
 git clone https://github.com/k-manisha9/healthy-recipe-chatbot.git
 cd healthy-recipe-chatbot
 
-
+```
 2. **Set up a virtual environment**
+```bash
+
 python -m venv venv
 venv\Scripts\activate     # On Windows
 source venv/bin/activate  # On Mac/Linux
+```
 
 3. **Install dependencies**
-
+```bash
 bash
 Copy
 Edit
 pip install -r requirements.txt
-
+```
 4. **Run the app**
-
+```bash
 bash
 Copy
 Edit
 python routes.py
+```
 
+## 🧪 Sample Inputs
+```bash
 
-##🧪 Sample Inputs
 “Suggest meals for a diabetic person aged 45 who wants to lose weight.”
 “Plan a weekly meal for a person with kidney disease and high blood pressure.”
 “What can I eat if I’m allergic to nuts and want high protein?”
+```
+
+
+## 📷 Screenshots
+Here’s a sample conversation with the chatbot:
+![WhatsApp Image 2025-06-09 at 00 03 27_d7d110ad](https://github.com/user-attachments/assets/25404a30-3687-4cda-bc0a-c769ccc11210)
+![WhatsApp Image 2025-06-09 at 00 03 12_5f4e1bc4](https://github.com/user-attachments/assets/696dcd69-22b3-4974-ae07-7023d6a71183)
+![WhatsApp Image 2025-06-06 at 5 46 42 PM](https://github.com/user-attachments/assets/9795aa19-0a8d-4ff1-8ca1-4d3d235f66ae)
+![WhatsApp Image 2025-06-06 at 5 46 42 PM (1)](https://github.com/user-attachments/assets/b9493ac8-adef-46c9-839c-fa3f83d38f32)
 
 
 
-##📷 Screenshots
 
 
-##📦 Future Improvements
-🗣️ Add voice assistant functionality
-
-📲 Mobile responsiveness
-
-🧑‍⚕️ Doctor/Nutritionist review loop
-
-📊 Daily nutrient tracking dashboard
+## 📦 Future Improvements
+- 🗣️ Add voice assistant functionality
+- 📲 Mobile responsiveness
+- 🧑‍⚕️ Doctor/Nutritionist review loop
+- 📊 Daily nutrient tracking dashboard
