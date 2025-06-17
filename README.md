@@ -39,21 +39,20 @@ An intelligent AI-powered chatbot that provides personalized diet plans and reci
 
 ## 🗂️ Project Structure
 
+```bash
 RecipeChatbot/
-│
-├── static/ # CSS, JS files
-├── templates/ # HTML templates
-├── venv/ # Virtual environment (ignored)
-├── weekly_meal_plan.csv # Generated weekly plan
-├── dataset.csv # Nutrition + Disease-aware recipe dataset
-├── routes.py # Flask routes
-├── recipe_utils.py # Chat logic, ML models
-├── script.js # Frontend logic
+├── static/                   # CSS, JS files
+├── templates/                # HTML templates
+├── venv/                     # Virtual environment (ignored)
+├── weekly_meal_plan.csv      # Generated weekly plan
+├── dataset.csv               # Nutrition + Disease-aware recipe dataset
+├── routes.py                 # Flask routes
+├── recipe_utils.py           # Chat logic, ML models
+├── script.js                 # Frontend logic
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
-
+```
 
 ## 🚀 How to Run Locally
 
