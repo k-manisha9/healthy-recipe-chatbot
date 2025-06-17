@@ -1,0 +1,107 @@
+/* Reset default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url('../images/kitchen-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #333;
+}
+
+/* Container for both login and register forms */
+.form-container {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 40px 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    max-width: 450px;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 25px;
+    color: #ff5722;
+}
+
+/* Style for all input fields */
+form input {
+    width: 100%;
+    padding: 12px 15px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+/* Style for dropdown label */
+label {
+    display: block;
+    margin: 15px 0 8px;
+    font-size: 14px;
+    text-align: left;
+    color: #555;
+}
+
+/* Style for multi-select dropdown */
+form select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: #fff;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form select:focus {
+    outline: none;
+    border-color: #ff5722;
+    box-shadow: 0 0 5px rgba(255, 87, 34, 0.3);
+}
+
+form select[multiple] {
+    height: 120px;
+}
+
+/* Style for button */
+form button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ff5722;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #e64a19;
+}
+
+/* Link paragraph */
+p {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+a {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

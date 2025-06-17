@@ -1,0 +1,1101 @@
+Disease Name,Bad Ingredients,Safe Nutrients,Bad Nutrients,Bad Nutrients Safe Limits (mg/g)
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Magnesium, Potassium",Fat,Fat: 100 g
+Liver Cirrhosis,"alcohol, fried foods, red meat","Omega-3, Magnesium, Vitamin C","Saturated Fat, Caffeine, Sugar","Saturated Fat: 20 g, Caffeine: 100 mg, Sugar: 36 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Potassium, Vitamin C, Magnesium",Alcohol,Alcohol: 100 g
+Celiac Disease,"wheat, barley, rye",Vitamin C,"Fat, Carbohydrates","Fat: 100 g, Carbohydrates: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar",Magnesium,Cholesterol,Cholesterol: 300 mg
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Antioxidants, Fiber",Cholesterol,Cholesterol: 300 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Vitamin C, Fiber","Carbohydrates, Saturated Fat, Alcohol","Carbohydrates: 100 g, Saturated Fat: 20 g, Alcohol: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Vitamin C, Antioxidants",Sugar,Sugar: 36 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Vitamin C, Magnesium, Potassium",Sodium,Sodium: 2300 mg
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats","Omega-3, Antioxidants","Saturated Fat, Alcohol, Calories","Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal"
+Irritable Bowel Syndrome - Stage 3,"red meat, fried food, sugar","Omega-3, Vitamin C","Caffeine, Alcohol, Sodium, Sugar","Caffeine: 100 mg, Alcohol: 100 g, Sodium: 2300 mg, Sugar: 36 g"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Omega-3, Antioxidants, Vitamin C","Cholesterol, Carbohydrates, Saturated Fat","Cholesterol: 300 mg, Carbohydrates: 100 g, Saturated Fat: 20 g"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Antioxidants, Magnesium","Calories, Caffeine","Calories: 800 kcal, Caffeine: 100 mg"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Antioxidants, Potassium","Alcohol, Sodium, Carbohydrates, Fat","Alcohol: 100 g, Sodium: 2300 mg, Carbohydrates: 100 g, Fat: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Potassium, Vitamin C","Fat, Carbohydrates, Caffeine","Fat: 100 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Fiber, Omega-3, Antioxidants","Cholesterol, Fat, Sodium, Calories","Cholesterol: 300 mg, Fat: 100 g, Sodium: 2300 mg, Calories: 800 kcal"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Fiber","Fat, Sugar","Fat: 100 g, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon",Potassium,"Sodium, Caffeine","Sodium: 2300 mg, Caffeine: 100 mg"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar","Vitamin C, Fiber","Alcohol, Fat, Calories, Cholesterol","Alcohol: 100 g, Fat: 100 g, Calories: 800 kcal, Cholesterol: 300 mg"
+Hyperlipidemia,"red meat, fried food, sugar",Potassium,Sugar,Sugar: 36 g
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat","Omega-3, Fiber, Antioxidants","Saturated Fat, Calories, Caffeine, Sugar","Saturated Fat: 20 g, Calories: 800 kcal, Caffeine: 100 mg, Sugar: 36 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets",Vitamin C,"Sugar, Fat, Saturated Fat, Calories","Sugar: 36 g, Fat: 100 g, Saturated Fat: 20 g, Calories: 800 kcal"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Antioxidants, Omega-3","Carbohydrates, Sugar, Sodium","Carbohydrates: 100 g, Sugar: 36 g, Sodium: 2300 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon",Vitamin C,"Saturated Fat, Caffeine, Alcohol, Fat","Saturated Fat: 20 g, Caffeine: 100 mg, Alcohol: 100 g, Fat: 100 g"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Fiber, Magnesium","Fat, Cholesterol, Sugar, Alcohol","Fat: 100 g, Cholesterol: 300 mg, Sugar: 36 g, Alcohol: 100 g"
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Omega-3, Fiber","Saturated Fat, Sodium, Sugar","Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g"
+Gout - Stage 1,"mutton, chicken, alcohol, organ meats","Omega-3, Vitamin C","Sugar, Cholesterol","Sugar: 36 g, Cholesterol: 300 mg"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar",Potassium,"Saturated Fat, Cholesterol, Calories, Fat","Saturated Fat: 20 g, Cholesterol: 300 mg, Calories: 800 kcal, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Potassium, Fiber",Sodium,Sodium: 2300 mg
+Hypothyroidism,"red meat, fried food, sugar",Vitamin C,Caffeine,Caffeine: 100 mg
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Potassium,"Carbohydrates, Alcohol, Cholesterol","Carbohydrates: 100 g, Alcohol: 100 g, Cholesterol: 300 mg"
+Atherosclerosis,"red meat, fried food, sugar",Omega-3,Fat,Fat: 100 g
+Atherosclerosis,"red meat, fried food, sugar",Omega-3,Carbohydrates,Carbohydrates: 100 g
+Migraine - Stage 2,"red meat, fried food, sugar",Antioxidants,Caffeine,Caffeine: 100 mg
+Liver Cirrhosis,"alcohol, fried foods, red meat","Magnesium, Potassium, Fiber","Carbohydrates, Saturated Fat","Carbohydrates: 100 g, Saturated Fat: 20 g"
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Fiber, Omega-3",Saturated Fat,Saturated Fat: 20 g
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Magnesium, Potassium, Vitamin C","Fat, Cholesterol, Sugar, Alcohol","Fat: 100 g, Cholesterol: 300 mg, Sugar: 36 g, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Magnesium, Omega-3, Potassium",Carbohydrates,Carbohydrates: 100 g
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Potassium, Antioxidants, Omega-3","Cholesterol, Caffeine, Carbohydrates","Cholesterol: 300 mg, Caffeine: 100 mg, Carbohydrates: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Fiber, Potassium","Carbohydrates, Sodium, Sugar","Carbohydrates: 100 g, Sodium: 2300 mg, Sugar: 36 g"
+Atherosclerosis,"red meat, fried food, sugar","Vitamin C, Fiber","Saturated Fat, Alcohol, Sugar","Saturated Fat: 20 g, Alcohol: 100 g, Sugar: 36 g"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Fiber, Omega-3",Fat,Fat: 100 g
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Fiber","Caffeine, Carbohydrates, Cholesterol, Saturated Fat","Caffeine: 100 mg, Carbohydrates: 100 g, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods",Omega-3,"Caffeine, Sugar","Caffeine: 100 mg, Sugar: 36 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Vitamin C, Potassium","Calories, Caffeine, Sugar, Alcohol","Calories: 800 kcal, Caffeine: 100 mg, Sugar: 36 g, Alcohol: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Omega-3, Potassium","Saturated Fat, Caffeine, Cholesterol","Saturated Fat: 20 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Fiber, Antioxidants, Vitamin C","Cholesterol, Fat, Saturated Fat","Cholesterol: 300 mg, Fat: 100 g, Saturated Fat: 20 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Omega-3, Fiber, Magnesium","Cholesterol, Carbohydrates, Caffeine","Cholesterol: 300 mg, Carbohydrates: 100 g, Caffeine: 100 mg"
+Hypothyroidism,"red meat, fried food, sugar",Potassium,Alcohol,Alcohol: 100 g
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Fiber, Antioxidants","Saturated Fat, Cholesterol, Carbohydrates, Sugar","Saturated Fat: 20 g, Cholesterol: 300 mg, Carbohydrates: 100 g, Sugar: 36 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Vitamin C, Fiber","Fat, Cholesterol, Carbohydrates","Fat: 100 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods","Fiber, Magnesium",Calories,Calories: 800 kcal
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Magnesium","Calories, Sodium, Saturated Fat","Calories: 800 kcal, Sodium: 2300 mg, Saturated Fat: 20 g"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Omega-3, Fiber","Calories, Carbohydrates","Calories: 800 kcal, Carbohydrates: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods","Vitamin C, Potassium, Magnesium","Calories, Sugar, Sodium","Calories: 800 kcal, Sugar: 36 g, Sodium: 2300 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Antioxidants, Vitamin C, Omega-3",Sodium,Sodium: 2300 mg
+Fatty Liver Disease,"alcohol, fried foods, red meat","Vitamin C, Omega-3",Fat,Fat: 100 g
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Vitamin C, Omega-3",Calories,Calories: 800 kcal
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Fiber, Vitamin C","Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Potassium, Antioxidants, Magnesium",Sugar,Sugar: 36 g
+Sleep Apnea,"red meat, fried food, sugar","Vitamin C, Potassium, Omega-3","Saturated Fat, Fat","Saturated Fat: 20 g, Fat: 100 g"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar",Fiber,"Cholesterol, Alcohol, Calories","Cholesterol: 300 mg, Alcohol: 100 g, Calories: 800 kcal"
+Metabolic Syndrome,"red meat, fried food, sugar","Vitamin C, Potassium",Saturated Fat,Saturated Fat: 20 g
+Prediabetes - Stage 3,"sugar, white rice, soda, sweets","Omega-3, Fiber, Vitamin C","Calories, Cholesterol, Caffeine, Fat","Calories: 800 kcal, Cholesterol: 300 mg, Caffeine: 100 mg, Fat: 100 g"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods",Potassium,"Alcohol, Saturated Fat, Carbohydrates","Alcohol: 100 g, Saturated Fat: 20 g, Carbohydrates: 100 g"
+Celiac Disease,"wheat, barley, rye",Antioxidants,"Saturated Fat, Caffeine, Sodium","Saturated Fat: 20 g, Caffeine: 100 mg, Sodium: 2300 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Antioxidants, Potassium, Vitamin C",Alcohol,Alcohol: 100 g
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Omega-3, Vitamin C, Fiber","Calories, Carbohydrates, Sodium","Calories: 800 kcal, Carbohydrates: 100 g, Sodium: 2300 mg"
+Prediabetes,"sugar, white rice, soda, sweets","Antioxidants, Fiber, Potassium","Carbohydrates, Saturated Fat","Carbohydrates: 100 g, Saturated Fat: 20 g"
+Celiac Disease - Stage 2,"wheat, barley, rye",Vitamin C,"Cholesterol, Caffeine","Cholesterol: 300 mg, Caffeine: 100 mg"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Vitamin C, Magnesium","Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Prediabetes,"sugar, white rice, soda, sweets","Fiber, Omega-3","Sugar, Caffeine, Sodium","Sugar: 36 g, Caffeine: 100 mg, Sodium: 2300 mg"
+GERD,"red meat, fried food, sugar","Vitamin C, Antioxidants",Saturated Fat,Saturated Fat: 20 g
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Magnesium, Fiber","Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Antioxidants,"Cholesterol, Saturated Fat, Calories","Cholesterol: 300 mg, Saturated Fat: 20 g, Calories: 800 kcal"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods",Magnesium,"Sugar, Carbohydrates","Sugar: 36 g, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar",Magnesium,"Carbohydrates, Cholesterol, Caffeine","Carbohydrates: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Gout,"mutton, chicken, alcohol, organ meats",Fiber,"Carbohydrates, Sodium, Fat, Saturated Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Fat: 100 g, Saturated Fat: 20 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Vitamin C, Magnesium, Potassium",Sugar,Sugar: 36 g
+Hypothyroidism - Stage 2,"red meat, fried food, sugar",Vitamin C,"Calories, Alcohol, Sodium, Sugar","Calories: 800 kcal, Alcohol: 100 g, Sodium: 2300 mg, Sugar: 36 g"
+GERD,"red meat, fried food, sugar",Potassium,"Cholesterol, Calories","Cholesterol: 300 mg, Calories: 800 kcal"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods",Antioxidants,Caffeine,Caffeine: 100 mg
+Sleep Apnea - Stage 3,"red meat, fried food, sugar",Antioxidants,"Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar","Magnesium, Fiber",Alcohol,Alcohol: 100 g
+Sleep Apnea,"red meat, fried food, sugar","Fiber, Potassium","Alcohol, Cholesterol, Caffeine, Sugar","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg, Sugar: 36 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Fiber, Magnesium, Potassium",Caffeine,Caffeine: 100 mg
+Hypothyroidism,"red meat, fried food, sugar",Potassium,"Fat, Sugar, Carbohydrates, Calories","Fat: 100 g, Sugar: 36 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Fiber, Vitamin C, Omega-3","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Antioxidants, Omega-3, Potassium","Fat, Saturated Fat, Cholesterol, Carbohydrates","Fat: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Fiber, Antioxidants",Sugar,Sugar: 36 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Fiber,Sugar,Sugar: 36 g
+Migraine - Stage 3,"red meat, fried food, sugar","Magnesium, Antioxidants, Omega-3","Alcohol, Sugar, Calories, Fat","Alcohol: 100 g, Sugar: 36 g, Calories: 800 kcal, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Potassium, Omega-3","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar",Antioxidants,"Saturated Fat, Fat","Saturated Fat: 20 g, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Antioxidants","Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar",Potassium,"Carbohydrates, Cholesterol, Saturated Fat, Alcohol","Carbohydrates: 100 g, Cholesterol: 300 mg, Saturated Fat: 20 g, Alcohol: 100 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Fiber, Potassium","Caffeine, Fat, Sodium, Cholesterol","Caffeine: 100 mg, Fat: 100 g, Sodium: 2300 mg, Cholesterol: 300 mg"
+Celiac Disease - Stage 3,"wheat, barley, rye","Omega-3, Potassium, Magnesium","Carbohydrates, Caffeine","Carbohydrates: 100 g, Caffeine: 100 mg"
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Magnesium",Cholesterol,Cholesterol: 300 mg
+Hypothyroidism - Stage 2,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Saturated Fat, Fat","Carbohydrates: 100 g, Saturated Fat: 20 g, Fat: 100 g"
+Migraine - Stage 3,"red meat, fried food, sugar","Potassium, Antioxidants","Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Celiac Disease - Stage 3,"wheat, barley, rye",Omega-3,"Caffeine, Saturated Fat, Sodium, Fat","Caffeine: 100 mg, Saturated Fat: 20 g, Sodium: 2300 mg, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Omega-3, Magnesium","Fat, Caffeine","Fat: 100 g, Caffeine: 100 mg"
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Fiber, Vitamin C","Sodium, Saturated Fat, Carbohydrates, Caffeine","Sodium: 2300 mg, Saturated Fat: 20 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Potassium, Magnesium, Fiber","Sugar, Caffeine, Saturated Fat, Cholesterol","Sugar: 36 g, Caffeine: 100 mg, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Omega-3, Potassium, Vitamin C","Fat, Cholesterol, Carbohydrates, Sugar","Fat: 100 g, Cholesterol: 300 mg, Carbohydrates: 100 g, Sugar: 36 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Antioxidants, Vitamin C",Cholesterol,Cholesterol: 300 mg
+Sleep Apnea,"red meat, fried food, sugar",Fiber,"Saturated Fat, Calories, Fat, Alcohol","Saturated Fat: 20 g, Calories: 800 kcal, Fat: 100 g, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon",Fiber,Cholesterol,Cholesterol: 300 mg
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets",Magnesium,Alcohol,Alcohol: 100 g
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Antioxidants, Vitamin C",Fat,Fat: 100 g
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Vitamin C, Fiber","Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Magnesium, Vitamin C, Fiber",Carbohydrates,Carbohydrates: 100 g
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats","Magnesium, Omega-3","Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Magnesium, Potassium","Calories, Caffeine, Sodium","Calories: 800 kcal, Caffeine: 100 mg, Sodium: 2300 mg"
+Celiac Disease,"wheat, barley, rye","Potassium, Magnesium, Antioxidants","Sodium, Calories, Sugar, Carbohydrates","Sodium: 2300 mg, Calories: 800 kcal, Sugar: 36 g, Carbohydrates: 100 g"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods",Magnesium,Sodium,Sodium: 2300 mg
+Hyperlipidemia,"red meat, fried food, sugar","Omega-3, Potassium",Sugar,Sugar: 36 g
+Sleep Apnea - Stage 3,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Calories","Carbohydrates: 100 g, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods","Magnesium, Fiber, Omega-3","Carbohydrates, Sodium, Alcohol, Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Alcohol: 100 g, Fat: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Vitamin C, Omega-3, Potassium","Sodium, Sugar, Carbohydrates","Sodium: 2300 mg, Sugar: 36 g, Carbohydrates: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods","Omega-3, Magnesium","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Antioxidants, Magnesium","Carbohydrates, Sugar","Carbohydrates: 100 g, Sugar: 36 g"
+Celiac Disease,"wheat, barley, rye","Magnesium, Omega-3","Fat, Alcohol, Calories, Saturated Fat","Fat: 100 g, Alcohol: 100 g, Calories: 800 kcal, Saturated Fat: 20 g"
+Obesity,"junk food, soda, sweets, fried items","Fiber, Vitamin C","Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Vitamin C, Omega-3",Fat,Fat: 100 g
+Migraine - Stage 1,"red meat, fried food, sugar","Vitamin C, Magnesium, Fiber","Sodium, Cholesterol, Saturated Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat",Magnesium,"Saturated Fat, Caffeine, Cholesterol, Calories","Saturated Fat: 20 g, Caffeine: 100 mg, Cholesterol: 300 mg, Calories: 800 kcal"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Vitamin C, Magnesium","Alcohol, Calories, Fat","Alcohol: 100 g, Calories: 800 kcal, Fat: 100 g"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Magnesium, Antioxidants, Omega-3","Caffeine, Fat, Sugar, Carbohydrates","Caffeine: 100 mg, Fat: 100 g, Sugar: 36 g, Carbohydrates: 100 g"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat","Fiber, Antioxidants","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Antioxidants, Potassium, Omega-3","Calories, Sodium, Fat, Caffeine","Calories: 800 kcal, Sodium: 2300 mg, Fat: 100 g, Caffeine: 100 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Antioxidants, Potassium",Carbohydrates,Carbohydrates: 100 g
+Hyperlipidemia,"red meat, fried food, sugar","Antioxidants, Vitamin C","Carbohydrates, Sodium, Calories, Saturated Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g"
+Migraine,"red meat, fried food, sugar","Vitamin C, Antioxidants",Sugar,Sugar: 36 g
+Hypothyroidism,"red meat, fried food, sugar","Magnesium, Fiber","Sugar, Caffeine","Sugar: 36 g, Caffeine: 100 mg"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods","Omega-3, Fiber","Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+GERD,"red meat, fried food, sugar","Antioxidants, Magnesium",Sodium,Sodium: 2300 mg
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar",Omega-3,"Sugar, Fat, Carbohydrates, Sodium","Sugar: 36 g, Fat: 100 g, Carbohydrates: 100 g, Sodium: 2300 mg"
+Prediabetes,"sugar, white rice, soda, sweets",Antioxidants,Calories,Calories: 800 kcal
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Omega-3, Antioxidants","Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Potassium, Omega-3, Antioxidants","Caffeine, Fat, Sodium, Alcohol","Caffeine: 100 mg, Fat: 100 g, Sodium: 2300 mg, Alcohol: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Fiber, Vitamin C, Omega-3","Caffeine, Calories, Carbohydrates, Cholesterol","Caffeine: 100 mg, Calories: 800 kcal, Carbohydrates: 100 g, Cholesterol: 300 mg"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Vitamin C, Potassium","Saturated Fat, Alcohol, Fat, Sugar","Saturated Fat: 20 g, Alcohol: 100 g, Fat: 100 g, Sugar: 36 g"
+Hypothyroidism - Stage 2,"red meat, fried food, sugar","Fiber, Potassium","Caffeine, Sugar","Caffeine: 100 mg, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar","Potassium, Omega-3, Fiber",Cholesterol,Cholesterol: 300 mg
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Vitamin C, Omega-3","Carbohydrates, Fat, Calories","Carbohydrates: 100 g, Fat: 100 g, Calories: 800 kcal"
+Prediabetes,"sugar, white rice, soda, sweets","Vitamin C, Potassium","Alcohol, Cholesterol","Alcohol: 100 g, Cholesterol: 300 mg"
+Migraine,"red meat, fried food, sugar","Antioxidants, Fiber","Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods","Fiber, Omega-3",Carbohydrates,Carbohydrates: 100 g
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Antioxidants, Fiber","Saturated Fat, Calories, Sugar, Carbohydrates","Saturated Fat: 20 g, Calories: 800 kcal, Sugar: 36 g, Carbohydrates: 100 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods",Fiber,"Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Fiber, Magnesium, Antioxidants","Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Fiber,"Cholesterol, Sugar, Alcohol","Cholesterol: 300 mg, Sugar: 36 g, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Antioxidants,"Cholesterol, Saturated Fat, Fat","Cholesterol: 300 mg, Saturated Fat: 20 g, Fat: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Magnesium, Vitamin C, Fiber","Sodium, Sugar","Sodium: 2300 mg, Sugar: 36 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Magnesium,Fat,Fat: 100 g
+Hyperlipidemia,"red meat, fried food, sugar","Vitamin C, Omega-3",Cholesterol,Cholesterol: 300 mg
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Magnesium,"Caffeine, Sodium, Saturated Fat, Calories","Caffeine: 100 mg, Sodium: 2300 mg, Saturated Fat: 20 g, Calories: 800 kcal"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Omega-3, Fiber","Caffeine, Carbohydrates","Caffeine: 100 mg, Carbohydrates: 100 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Vitamin C, Magnesium, Antioxidants","Fat, Sugar, Sodium","Fat: 100 g, Sugar: 36 g, Sodium: 2300 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon",Potassium,"Sugar, Saturated Fat, Alcohol, Calories","Sugar: 36 g, Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal"
+Obesity,"junk food, soda, sweets, fried items",Antioxidants,Calories,Calories: 800 kcal
+Prediabetes,"sugar, white rice, soda, sweets","Vitamin C, Potassium","Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Celiac Disease - Stage 2,"wheat, barley, rye",Vitamin C,"Calories, Sugar","Calories: 800 kcal, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar",Magnesium,"Cholesterol, Calories, Caffeine","Cholesterol: 300 mg, Calories: 800 kcal, Caffeine: 100 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Magnesium, Vitamin C","Cholesterol, Sugar, Calories, Fat","Cholesterol: 300 mg, Sugar: 36 g, Calories: 800 kcal, Fat: 100 g"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Magnesium, Potassium","Sugar, Cholesterol","Sugar: 36 g, Cholesterol: 300 mg"
+Migraine,"red meat, fried food, sugar","Fiber, Antioxidants, Vitamin C",Cholesterol,Cholesterol: 300 mg
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Antioxidants, Potassium",Fat,Fat: 100 g
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Antioxidants, Magnesium, Omega-3","Sugar, Saturated Fat","Sugar: 36 g, Saturated Fat: 20 g"
+Migraine,"red meat, fried food, sugar",Magnesium,"Calories, Fat, Sugar, Saturated Fat","Calories: 800 kcal, Fat: 100 g, Sugar: 36 g, Saturated Fat: 20 g"
+Hypothyroidism,"red meat, fried food, sugar","Potassium, Antioxidants","Calories, Sodium, Cholesterol","Calories: 800 kcal, Sodium: 2300 mg, Cholesterol: 300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Magnesium,Sugar,Sugar: 36 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Omega-3,"Sugar, Calories, Carbohydrates","Sugar: 36 g, Calories: 800 kcal, Carbohydrates: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Vitamin C, Potassium","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat",Omega-3,"Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Antioxidants, Fiber","Caffeine, Fat, Saturated Fat, Sugar","Caffeine: 100 mg, Fat: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar","Antioxidants, Omega-3, Vitamin C","Fat, Alcohol","Fat: 100 g, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Fiber, Potassium, Antioxidants","Caffeine, Sodium, Alcohol","Caffeine: 100 mg, Sodium: 2300 mg, Alcohol: 100 g"
+GERD,"red meat, fried food, sugar",Omega-3,Alcohol,Alcohol: 100 g
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Vitamin C, Omega-3",Caffeine,Caffeine: 100 mg
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets","Antioxidants, Magnesium","Saturated Fat, Cholesterol, Alcohol, Caffeine","Saturated Fat: 20 g, Cholesterol: 300 mg, Alcohol: 100 g, Caffeine: 100 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Magnesium, Potassium, Fiber","Sodium, Fat, Saturated Fat, Caffeine","Sodium: 2300 mg, Fat: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Potassium,"Carbohydrates, Caffeine, Alcohol, Cholesterol","Carbohydrates: 100 g, Caffeine: 100 mg, Alcohol: 100 g, Cholesterol: 300 mg"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Antioxidants, Magnesium, Vitamin C",Saturated Fat,Saturated Fat: 20 g
+GERD,"red meat, fried food, sugar",Potassium,Sugar,Sugar: 36 g
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Magnesium, Fiber, Antioxidants","Alcohol, Sodium, Fat, Sugar","Alcohol: 100 g, Sodium: 2300 mg, Fat: 100 g, Sugar: 36 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Fiber, Vitamin C, Omega-3","Saturated Fat, Calories, Sugar","Saturated Fat: 20 g, Calories: 800 kcal, Sugar: 36 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Magnesium,Saturated Fat,Saturated Fat: 20 g
+Heart Failure,"trans fats, red meat, sugary foods",Fiber,"Cholesterol, Sodium","Cholesterol: 300 mg, Sodium: 2300 mg"
+Hypothyroidism - Stage 2,"red meat, fried food, sugar","Vitamin C, Potassium, Antioxidants","Sugar, Sodium, Fat","Sugar: 36 g, Sodium: 2300 mg, Fat: 100 g"
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Omega-3, Magnesium, Fiber","Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Magnesium, Antioxidants, Vitamin C","Fat, Cholesterol, Caffeine, Calories","Fat: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg, Calories: 800 kcal"
+Atherosclerosis,"red meat, fried food, sugar",Omega-3,"Fat, Carbohydrates","Fat: 100 g, Carbohydrates: 100 g"
+Gout,"mutton, chicken, alcohol, organ meats","Antioxidants, Potassium","Calories, Carbohydrates, Caffeine","Calories: 800 kcal, Carbohydrates: 100 g, Caffeine: 100 mg"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar",Antioxidants,"Alcohol, Sugar, Saturated Fat","Alcohol: 100 g, Sugar: 36 g, Saturated Fat: 20 g"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Omega-3, Vitamin C, Potassium","Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Vitamin C,"Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Celiac Disease,"wheat, barley, rye","Magnesium, Omega-3","Cholesterol, Carbohydrates, Calories, Caffeine","Cholesterol: 300 mg, Carbohydrates: 100 g, Calories: 800 kcal, Caffeine: 100 mg"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Vitamin C, Magnesium","Sodium, Saturated Fat","Sodium: 2300 mg, Saturated Fat: 20 g"
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Fiber,"Sodium, Calories, Alcohol, Saturated Fat","Sodium: 2300 mg, Calories: 800 kcal, Alcohol: 100 g, Saturated Fat: 20 g"
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Omega-3, Fiber","Sugar, Fat, Carbohydrates, Saturated Fat","Sugar: 36 g, Fat: 100 g, Carbohydrates: 100 g, Saturated Fat: 20 g"
+Heart Failure,"trans fats, red meat, sugary foods","Antioxidants, Fiber, Vitamin C",Sodium,Sodium: 2300 mg
+Sleep Apnea,"red meat, fried food, sugar","Potassium, Magnesium, Antioxidants","Sugar, Sodium, Caffeine","Sugar: 36 g, Sodium: 2300 mg, Caffeine: 100 mg"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar","Magnesium, Fiber, Omega-3","Carbohydrates, Saturated Fat, Caffeine","Carbohydrates: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Antioxidants, Potassium, Omega-3",Alcohol,Alcohol: 100 g
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Vitamin C,"Fat, Carbohydrates, Calories","Fat: 100 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Fiber, Omega-3, Magnesium","Cholesterol, Sodium, Calories","Cholesterol: 300 mg, Sodium: 2300 mg, Calories: 800 kcal"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Omega-3, Magnesium","Alcohol, Caffeine, Saturated Fat","Alcohol: 100 g, Caffeine: 100 mg, Saturated Fat: 20 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Vitamin C, Fiber, Potassium","Fat, Alcohol","Fat: 100 g, Alcohol: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Omega-3, Magnesium, Vitamin C","Fat, Sugar","Fat: 100 g, Sugar: 36 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Antioxidants, Omega-3, Magnesium","Cholesterol, Carbohydrates, Sodium","Cholesterol: 300 mg, Carbohydrates: 100 g, Sodium: 2300 mg"
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon",Magnesium,"Fat, Sugar, Alcohol","Fat: 100 g, Sugar: 36 g, Alcohol: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Fiber, Magnesium, Potassium",Carbohydrates,Carbohydrates: 100 g
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods",Antioxidants,"Cholesterol, Caffeine, Fat","Cholesterol: 300 mg, Caffeine: 100 mg, Fat: 100 g"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Magnesium, Antioxidants","Carbohydrates, Caffeine, Calories, Cholesterol","Carbohydrates: 100 g, Caffeine: 100 mg, Calories: 800 kcal, Cholesterol: 300 mg"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Fiber,"Saturated Fat, Carbohydrates, Caffeine","Saturated Fat: 20 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Antioxidants, Omega-3, Potassium",Fat,Fat: 100 g
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar",Potassium,"Carbohydrates, Alcohol, Caffeine","Carbohydrates: 100 g, Alcohol: 100 g, Caffeine: 100 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Potassium, Antioxidants","Sugar, Carbohydrates, Cholesterol, Alcohol","Sugar: 36 g, Carbohydrates: 100 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Omega-3, Potassium, Vitamin C","Saturated Fat, Sodium, Fat","Saturated Fat: 20 g, Sodium: 2300 mg, Fat: 100 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Potassium,Cholesterol,Cholesterol: 300 mg
+GERD,"red meat, fried food, sugar","Omega-3, Potassium",Caffeine,Caffeine: 100 mg
+Obesity,"junk food, soda, sweets, fried items","Vitamin C, Fiber","Caffeine, Calories","Caffeine: 100 mg, Calories: 800 kcal"
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Omega-3, Magnesium",Cholesterol,Cholesterol: 300 mg
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Fiber, Vitamin C",Sugar,Sugar: 36 g
+Fatty Liver Disease,"alcohol, fried foods, red meat","Magnesium, Omega-3","Sugar, Sodium, Calories, Fat","Sugar: 36 g, Sodium: 2300 mg, Calories: 800 kcal, Fat: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Magnesium, Antioxidants, Fiber","Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Potassium,"Sodium, Cholesterol, Alcohol","Sodium: 2300 mg, Cholesterol: 300 mg, Alcohol: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Omega-3, Potassium, Antioxidants","Carbohydrates, Cholesterol","Carbohydrates: 100 g, Cholesterol: 300 mg"
+Metabolic Syndrome,"red meat, fried food, sugar","Vitamin C, Antioxidants","Saturated Fat, Calories, Caffeine","Saturated Fat: 20 g, Calories: 800 kcal, Caffeine: 100 mg"
+Hypothyroidism,"red meat, fried food, sugar",Antioxidants,Calories,Calories: 800 kcal
+Migraine - Stage 2,"red meat, fried food, sugar",Omega-3,"Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Fiber, Potassium",Carbohydrates,Carbohydrates: 100 g
+Atherosclerosis,"red meat, fried food, sugar",Antioxidants,Cholesterol,Cholesterol: 300 mg
+Hypertension,"salt, pickles, canned soup, bacon","Magnesium, Potassium",Sodium,Sodium: 2300 mg
+Hypertension,"salt, pickles, canned soup, bacon","Antioxidants, Omega-3",Sugar,Sugar: 36 g
+Hypothyroidism,"red meat, fried food, sugar","Fiber, Potassium","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Fiber, Antioxidants","Calories, Carbohydrates","Calories: 800 kcal, Carbohydrates: 100 g"
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Vitamin C, Omega-3","Carbohydrates, Sodium, Sugar, Calories","Carbohydrates: 100 g, Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal"
+Celiac Disease - Stage 1,"wheat, barley, rye","Antioxidants, Potassium, Vitamin C",Alcohol,Alcohol: 100 g
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Vitamin C,Fat,Fat: 100 g
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Omega-3","Calories, Alcohol, Fat","Calories: 800 kcal, Alcohol: 100 g, Fat: 100 g"
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat",Potassium,"Cholesterol, Sugar, Caffeine, Saturated Fat","Cholesterol: 300 mg, Sugar: 36 g, Caffeine: 100 mg, Saturated Fat: 20 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Potassium, Magnesium",Calories,Calories: 800 kcal
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar",Omega-3,"Alcohol, Fat, Cholesterol, Calories","Alcohol: 100 g, Fat: 100 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods",Omega-3,Caffeine,Caffeine: 100 mg
+Prediabetes,"sugar, white rice, soda, sweets","Antioxidants, Omega-3",Carbohydrates,Carbohydrates: 100 g
+Fatty Liver Disease,"alcohol, fried foods, red meat",Fiber,"Calories, Saturated Fat, Fat, Caffeine","Calories: 800 kcal, Saturated Fat: 20 g, Fat: 100 g, Caffeine: 100 mg"
+Obesity - Stage 1,"junk food, soda, sweets, fried items",Fiber,"Sugar, Saturated Fat, Alcohol, Fat","Sugar: 36 g, Saturated Fat: 20 g, Alcohol: 100 g, Fat: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods","Magnesium, Fiber, Vitamin C","Cholesterol, Calories","Cholesterol: 300 mg, Calories: 800 kcal"
+Gout - Stage 1,"mutton, chicken, alcohol, organ meats","Antioxidants, Vitamin C","Saturated Fat, Sugar, Fat","Saturated Fat: 20 g, Sugar: 36 g, Fat: 100 g"
+GERD,"red meat, fried food, sugar",Potassium,"Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Gout,"mutton, chicken, alcohol, organ meats","Omega-3, Vitamin C","Alcohol, Calories, Fat","Alcohol: 100 g, Calories: 800 kcal, Fat: 100 g"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat",Fiber,"Carbohydrates, Sodium, Saturated Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Saturated Fat: 20 g"
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat","Potassium, Vitamin C","Saturated Fat, Cholesterol, Alcohol","Saturated Fat: 20 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods",Potassium,"Sodium, Saturated Fat","Sodium: 2300 mg, Saturated Fat: 20 g"
+GERD - Stage 2,"red meat, fried food, sugar","Antioxidants, Vitamin C, Magnesium","Alcohol, Calories, Saturated Fat","Alcohol: 100 g, Calories: 800 kcal, Saturated Fat: 20 g"
+Migraine - Stage 3,"red meat, fried food, sugar","Potassium, Omega-3","Cholesterol, Calories, Sugar, Saturated Fat","Cholesterol: 300 mg, Calories: 800 kcal, Sugar: 36 g, Saturated Fat: 20 g"
+Hyperlipidemia,"red meat, fried food, sugar",Potassium,"Sodium, Cholesterol, Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Fat: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Magnesium, Vitamin C, Antioxidants","Saturated Fat, Caffeine, Cholesterol","Saturated Fat: 20 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Potassium, Omega-3","Sodium, Caffeine","Sodium: 2300 mg, Caffeine: 100 mg"
+Atherosclerosis,"red meat, fried food, sugar",Antioxidants,"Saturated Fat, Calories, Sodium, Cholesterol","Saturated Fat: 20 g, Calories: 800 kcal, Sodium: 2300 mg, Cholesterol: 300 mg"
+Gout,"mutton, chicken, alcohol, organ meats",Magnesium,Alcohol,Alcohol: 100 g
+Fatty Liver Disease,"alcohol, fried foods, red meat","Vitamin C, Omega-3","Saturated Fat, Carbohydrates, Alcohol, Fat","Saturated Fat: 20 g, Carbohydrates: 100 g, Alcohol: 100 g, Fat: 100 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Omega-3, Vitamin C, Fiber","Sodium, Sugar, Calories, Saturated Fat","Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal, Saturated Fat: 20 g"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Omega-3","Saturated Fat, Sugar, Cholesterol, Carbohydrates","Saturated Fat: 20 g, Sugar: 36 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar","Antioxidants, Omega-3",Fat,Fat: 100 g
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Antioxidants, Fiber, Magnesium","Sugar, Sodium, Cholesterol, Saturated Fat","Sugar: 36 g, Sodium: 2300 mg, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Vitamin C,Sodium,Sodium: 2300 mg
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Magnesium,"Carbohydrates, Cholesterol, Alcohol","Carbohydrates: 100 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Magnesium,Sugar,Sugar: 36 g
+Celiac Disease,"wheat, barley, rye","Vitamin C, Omega-3, Antioxidants",Sugar,Sugar: 36 g
+GERD - Stage 1,"red meat, fried food, sugar",Magnesium,"Alcohol, Calories, Sodium, Carbohydrates","Alcohol: 100 g, Calories: 800 kcal, Sodium: 2300 mg, Carbohydrates: 100 g"
+Celiac Disease,"wheat, barley, rye","Omega-3, Antioxidants, Magnesium",Cholesterol,Cholesterol: 300 mg
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Potassium,Carbohydrates,Carbohydrates: 100 g
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Fiber,"Carbohydrates, Caffeine, Saturated Fat, Alcohol","Carbohydrates: 100 g, Caffeine: 100 mg, Saturated Fat: 20 g, Alcohol: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Antioxidants,"Cholesterol, Fat, Saturated Fat, Alcohol","Cholesterol: 300 mg, Fat: 100 g, Saturated Fat: 20 g, Alcohol: 100 g"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Fiber,"Sodium, Carbohydrates, Caffeine, Alcohol","Sodium: 2300 mg, Carbohydrates: 100 g, Caffeine: 100 mg, Alcohol: 100 g"
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Omega-3, Magnesium","Cholesterol, Fat, Carbohydrates","Cholesterol: 300 mg, Fat: 100 g, Carbohydrates: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Fiber, Vitamin C","Carbohydrates, Caffeine","Carbohydrates: 100 g, Caffeine: 100 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Fiber, Magnesium, Antioxidants",Carbohydrates,Carbohydrates: 100 g
+Gout,"mutton, chicken, alcohol, organ meats",Omega-3,"Saturated Fat, Calories, Caffeine","Saturated Fat: 20 g, Calories: 800 kcal, Caffeine: 100 mg"
+Metabolic Syndrome,"red meat, fried food, sugar","Antioxidants, Magnesium","Carbohydrates, Sugar, Caffeine","Carbohydrates: 100 g, Sugar: 36 g, Caffeine: 100 mg"
+Heart Failure,"trans fats, red meat, sugary foods",Omega-3,"Saturated Fat, Sugar, Carbohydrates","Saturated Fat: 20 g, Sugar: 36 g, Carbohydrates: 100 g"
+Migraine - Stage 2,"red meat, fried food, sugar",Antioxidants,"Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Antioxidants, Potassium, Magnesium","Sodium, Sugar, Carbohydrates","Sodium: 2300 mg, Sugar: 36 g, Carbohydrates: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Fiber, Omega-3","Alcohol, Sodium, Sugar, Calories","Alcohol: 100 g, Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods",Potassium,"Alcohol, Caffeine, Cholesterol","Alcohol: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar","Fiber, Magnesium","Alcohol, Fat, Caffeine","Alcohol: 100 g, Fat: 100 g, Caffeine: 100 mg"
+GERD - Stage 1,"red meat, fried food, sugar","Magnesium, Antioxidants, Fiber","Sugar, Sodium, Carbohydrates","Sugar: 36 g, Sodium: 2300 mg, Carbohydrates: 100 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Omega-3, Antioxidants, Magnesium",Caffeine,Caffeine: 100 mg
+Celiac Disease,"wheat, barley, rye",Antioxidants,Cholesterol,Cholesterol: 300 mg
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Antioxidants","Calories, Caffeine, Alcohol","Calories: 800 kcal, Caffeine: 100 mg, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Potassium, Vitamin C","Alcohol, Sodium, Fat","Alcohol: 100 g, Sodium: 2300 mg, Fat: 100 g"
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Vitamin C, Omega-3, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Fatty Liver Disease,"alcohol, fried foods, red meat","Potassium, Fiber","Sugar, Calories, Alcohol","Sugar: 36 g, Calories: 800 kcal, Alcohol: 100 g"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods","Antioxidants, Omega-3","Alcohol, Fat","Alcohol: 100 g, Fat: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Fiber,"Alcohol, Fat","Alcohol: 100 g, Fat: 100 g"
+Obesity,"junk food, soda, sweets, fried items","Magnesium, Antioxidants","Alcohol, Carbohydrates, Caffeine","Alcohol: 100 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Omega-3, Magnesium, Vitamin C","Saturated Fat, Calories, Cholesterol","Saturated Fat: 20 g, Calories: 800 kcal, Cholesterol: 300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Omega-3, Fiber",Sodium,Sodium: 2300 mg
+Irritable Bowel Syndrome - Stage 1,"red meat, fried food, sugar",Potassium,"Carbohydrates, Sodium, Alcohol, Saturated Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+Hypothyroidism - Stage 2,"red meat, fried food, sugar","Vitamin C, Antioxidants","Saturated Fat, Sugar, Cholesterol","Saturated Fat: 20 g, Sugar: 36 g, Cholesterol: 300 mg"
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat",Magnesium,Alcohol,Alcohol: 100 g
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Vitamin C,"Saturated Fat, Sugar","Saturated Fat: 20 g, Sugar: 36 g"
+Hypothyroidism,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Fat, Sugar","Carbohydrates: 100 g, Fat: 100 g, Sugar: 36 g"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Fiber, Antioxidants",Sugar,Sugar: 36 g
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Magnesium,"Caffeine, Cholesterol, Calories","Caffeine: 100 mg, Cholesterol: 300 mg, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods","Vitamin C, Antioxidants, Omega-3","Calories, Sugar, Cholesterol, Saturated Fat","Calories: 800 kcal, Sugar: 36 g, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Magnesium, Antioxidants","Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Fiber, Antioxidants","Caffeine, Alcohol","Caffeine: 100 mg, Alcohol: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods",Potassium,"Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats",Omega-3,Alcohol,Alcohol: 100 g
+Sleep Apnea,"red meat, fried food, sugar","Magnesium, Vitamin C, Omega-3","Saturated Fat, Calories, Sodium","Saturated Fat: 20 g, Calories: 800 kcal, Sodium: 2300 mg"
+Celiac Disease - Stage 3,"wheat, barley, rye","Antioxidants, Omega-3",Alcohol,Alcohol: 100 g
+Celiac Disease - Stage 1,"wheat, barley, rye","Antioxidants, Magnesium, Omega-3","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Vitamin C, Magnesium",Fat,Fat: 100 g
+GERD,"red meat, fried food, sugar","Omega-3, Vitamin C","Caffeine, Sodium, Alcohol, Saturated Fat","Caffeine: 100 mg, Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Fiber, Magnesium, Vitamin C","Calories, Carbohydrates, Sodium","Calories: 800 kcal, Carbohydrates: 100 g, Sodium: 2300 mg"
+Celiac Disease,"wheat, barley, rye",Antioxidants,"Caffeine, Fat, Carbohydrates, Saturated Fat","Caffeine: 100 mg, Fat: 100 g, Carbohydrates: 100 g, Saturated Fat: 20 g"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Magnesium, Antioxidants","Sodium, Cholesterol, Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Fat: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Fiber, Potassium, Vitamin C","Saturated Fat, Sodium, Sugar","Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets",Vitamin C,"Cholesterol, Carbohydrates","Cholesterol: 300 mg, Carbohydrates: 100 g"
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Magnesium, Potassium","Carbohydrates, Sodium, Fat, Calories","Carbohydrates: 100 g, Sodium: 2300 mg, Fat: 100 g, Calories: 800 kcal"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Potassium, Magnesium","Sugar, Saturated Fat, Calories, Sodium","Sugar: 36 g, Saturated Fat: 20 g, Calories: 800 kcal, Sodium: 2300 mg"
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat","Omega-3, Vitamin C, Antioxidants","Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Potassium, Fiber","Saturated Fat, Alcohol, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats","Fiber, Potassium, Vitamin C",Cholesterol,Cholesterol: 300 mg
+Heart Failure,"trans fats, red meat, sugary foods",Antioxidants,"Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Prediabetes,"sugar, white rice, soda, sweets",Antioxidants,"Saturated Fat, Cholesterol, Carbohydrates, Sodium","Saturated Fat: 20 g, Cholesterol: 300 mg, Carbohydrates: 100 g, Sodium: 2300 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Antioxidants, Potassium, Magnesium","Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar","Omega-3, Magnesium, Antioxidants",Alcohol,Alcohol: 100 g
+Atherosclerosis,"red meat, fried food, sugar","Potassium, Magnesium, Antioxidants","Fat, Saturated Fat, Caffeine","Fat: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Atherosclerosis,"red meat, fried food, sugar","Vitamin C, Antioxidants, Fiber",Carbohydrates,Carbohydrates: 100 g
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Vitamin C, Omega-3, Potassium","Saturated Fat, Calories, Fat","Saturated Fat: 20 g, Calories: 800 kcal, Fat: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Antioxidants, Omega-3, Potassium","Caffeine, Sodium, Fat","Caffeine: 100 mg, Sodium: 2300 mg, Fat: 100 g"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat",Omega-3,Alcohol,Alcohol: 100 g
+Obesity,"junk food, soda, sweets, fried items",Omega-3,"Alcohol, Cholesterol, Sodium, Sugar","Alcohol: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Omega-3","Sugar, Carbohydrates, Sodium","Sugar: 36 g, Carbohydrates: 100 g, Sodium: 2300 mg"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Potassium,Fat,Fat: 100 g
+Celiac Disease,"wheat, barley, rye",Magnesium,"Saturated Fat, Sodium, Sugar, Calories","Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal"
+Migraine,"red meat, fried food, sugar",Magnesium,"Alcohol, Cholesterol","Alcohol: 100 g, Cholesterol: 300 mg"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Vitamin C, Magnesium, Antioxidants","Carbohydrates, Cholesterol, Caffeine","Carbohydrates: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+GERD - Stage 1,"red meat, fried food, sugar","Fiber, Omega-3, Vitamin C","Saturated Fat, Alcohol, Caffeine, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Caffeine: 100 mg, Sodium: 2300 mg"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Omega-3, Potassium","Sugar, Alcohol, Fat, Caffeine","Sugar: 36 g, Alcohol: 100 g, Fat: 100 g, Caffeine: 100 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Omega-3, Magnesium","Sugar, Saturated Fat","Sugar: 36 g, Saturated Fat: 20 g"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Vitamin C, Potassium","Alcohol, Sugar, Calories","Alcohol: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Vitamin C, Omega-3, Fiber","Cholesterol, Saturated Fat, Caffeine, Carbohydrates","Cholesterol: 300 mg, Saturated Fat: 20 g, Caffeine: 100 mg, Carbohydrates: 100 g"
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Magnesium, Vitamin C, Omega-3","Caffeine, Calories","Caffeine: 100 mg, Calories: 800 kcal"
+Hypothyroidism,"red meat, fried food, sugar",Potassium,"Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Migraine,"red meat, fried food, sugar",Omega-3,"Caffeine, Carbohydrates, Alcohol","Caffeine: 100 mg, Carbohydrates: 100 g, Alcohol: 100 g"
+Migraine - Stage 3,"red meat, fried food, sugar","Antioxidants, Magnesium, Potassium","Sodium, Carbohydrates, Calories, Cholesterol","Sodium: 2300 mg, Carbohydrates: 100 g, Calories: 800 kcal, Cholesterol: 300 mg"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Antioxidants, Magnesium, Vitamin C","Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Celiac Disease - Stage 3,"wheat, barley, rye","Vitamin C, Omega-3","Fat, Alcohol, Calories","Fat: 100 g, Alcohol: 100 g, Calories: 800 kcal"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Magnesium, Omega-3",Calories,Calories: 800 kcal
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Omega-3, Magnesium, Fiber","Calories, Fat, Alcohol, Cholesterol","Calories: 800 kcal, Fat: 100 g, Alcohol: 100 g, Cholesterol: 300 mg"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats",Antioxidants,"Calories, Sugar, Fat, Saturated Fat","Calories: 800 kcal, Sugar: 36 g, Fat: 100 g, Saturated Fat: 20 g"
+GERD - Stage 1,"red meat, fried food, sugar","Antioxidants, Potassium","Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Omega-3, Magnesium","Sugar, Alcohol","Sugar: 36 g, Alcohol: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Magnesium, Antioxidants, Fiber","Alcohol, Calories","Alcohol: 100 g, Calories: 800 kcal"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Magnesium, Potassium, Vitamin C","Sodium, Calories, Carbohydrates","Sodium: 2300 mg, Calories: 800 kcal, Carbohydrates: 100 g"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar",Fiber,"Alcohol, Cholesterol, Caffeine","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Fiber, Vitamin C, Antioxidants","Carbohydrates, Calories, Sugar, Alcohol","Carbohydrates: 100 g, Calories: 800 kcal, Sugar: 36 g, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar",Fiber,Caffeine,Caffeine: 100 mg
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Omega-3, Vitamin C",Alcohol,Alcohol: 100 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Vitamin C, Magnesium",Alcohol,Alcohol: 100 g
+Celiac Disease - Stage 2,"wheat, barley, rye",Potassium,"Calories, Sodium","Calories: 800 kcal, Sodium: 2300 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Potassium,"Calories, Sodium","Calories: 800 kcal, Sodium: 2300 mg"
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Fiber, Antioxidants","Sodium, Fat, Cholesterol, Caffeine","Sodium: 2300 mg, Fat: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Potassium, Fiber","Saturated Fat, Alcohol, Calories","Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal"
+Celiac Disease,"wheat, barley, rye","Antioxidants, Potassium, Magnesium","Alcohol, Saturated Fat, Sugar","Alcohol: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Omega-3, Magnesium",Caffeine,Caffeine: 100 mg
+Prediabetes - Stage 1,"sugar, white rice, soda, sweets","Magnesium, Vitamin C","Cholesterol, Caffeine","Cholesterol: 300 mg, Caffeine: 100 mg"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Magnesium, Antioxidants","Calories, Sodium, Sugar","Calories: 800 kcal, Sodium: 2300 mg, Sugar: 36 g"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Vitamin C, Magnesium","Caffeine, Cholesterol, Sugar","Caffeine: 100 mg, Cholesterol: 300 mg, Sugar: 36 g"
+Migraine - Stage 2,"red meat, fried food, sugar",Magnesium,Fat,Fat: 100 g
+Prediabetes - Stage 3,"sugar, white rice, soda, sweets",Fiber,Caffeine,Caffeine: 100 mg
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Fiber, Vitamin C, Potassium",Saturated Fat,Saturated Fat: 20 g
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Antioxidants, Magnesium, Potassium","Alcohol, Calories","Alcohol: 100 g, Calories: 800 kcal"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Magnesium, Omega-3, Potassium","Sodium, Carbohydrates, Sugar","Sodium: 2300 mg, Carbohydrates: 100 g, Sugar: 36 g"
+Irritable Bowel Syndrome - Stage 1,"red meat, fried food, sugar","Vitamin C, Antioxidants, Magnesium","Caffeine, Calories","Caffeine: 100 mg, Calories: 800 kcal"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Potassium,Caffeine,Caffeine: 100 mg
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Omega-3, Vitamin C, Antioxidants",Sodium,Sodium: 2300 mg
+Migraine - Stage 1,"red meat, fried food, sugar","Antioxidants, Fiber",Cholesterol,Cholesterol: 300 mg
+Hypertension,"salt, pickles, canned soup, bacon","Fiber, Omega-3, Antioxidants","Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+GERD,"red meat, fried food, sugar","Vitamin C, Omega-3","Saturated Fat, Caffeine, Sugar","Saturated Fat: 20 g, Caffeine: 100 mg, Sugar: 36 g"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Magnesium, Omega-3, Potassium","Sugar, Fat, Cholesterol, Carbohydrates","Sugar: 36 g, Fat: 100 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Obesity - Stage 2,"junk food, soda, sweets, fried items",Antioxidants,"Sodium, Calories, Saturated Fat, Alcohol","Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g, Alcohol: 100 g"
+GERD,"red meat, fried food, sugar","Magnesium, Potassium","Cholesterol, Sodium","Cholesterol: 300 mg, Sodium: 2300 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Vitamin C,Fat,Fat: 100 g
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Vitamin C, Potassium, Fiber",Sodium,Sodium: 2300 mg
+Atherosclerosis,"red meat, fried food, sugar",Omega-3,"Fat, Saturated Fat, Cholesterol, Alcohol","Fat: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon","Magnesium, Omega-3","Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods",Omega-3,"Calories, Sugar","Calories: 800 kcal, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon","Omega-3, Antioxidants, Potassium","Sugar, Caffeine, Cholesterol","Sugar: 36 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Sleep Apnea,"red meat, fried food, sugar","Vitamin C, Fiber, Magnesium","Carbohydrates, Sugar","Carbohydrates: 100 g, Sugar: 36 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Potassium, Antioxidants, Fiber","Sodium, Sugar, Carbohydrates, Alcohol","Sodium: 2300 mg, Sugar: 36 g, Carbohydrates: 100 g, Alcohol: 100 g"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar",Fiber,"Sodium, Calories, Saturated Fat, Fat","Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g, Fat: 100 g"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Potassium,"Carbohydrates, Sugar, Calories","Carbohydrates: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Magnesium, Fiber, Antioxidants",Sugar,Sugar: 36 g
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Vitamin C, Fiber, Omega-3","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Antioxidants, Vitamin C, Potassium","Carbohydrates, Cholesterol","Carbohydrates: 100 g, Cholesterol: 300 mg"
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon","Vitamin C, Magnesium, Antioxidants",Fat,Fat: 100 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Omega-3,"Carbohydrates, Caffeine, Sugar","Carbohydrates: 100 g, Caffeine: 100 mg, Sugar: 36 g"
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats",Antioxidants,Calories,Calories: 800 kcal
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat",Potassium,"Sodium, Saturated Fat, Sugar","Sodium: 2300 mg, Saturated Fat: 20 g, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Antioxidants","Carbohydrates, Calories, Sugar","Carbohydrates: 100 g, Calories: 800 kcal, Sugar: 36 g"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Vitamin C, Omega-3",Calories,Calories: 800 kcal
+Prediabetes,"sugar, white rice, soda, sweets","Potassium, Vitamin C","Caffeine, Saturated Fat, Sodium","Caffeine: 100 mg, Saturated Fat: 20 g, Sodium: 2300 mg"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods",Vitamin C,"Sodium, Carbohydrates, Calories","Sodium: 2300 mg, Carbohydrates: 100 g, Calories: 800 kcal"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Omega-3, Vitamin C, Potassium","Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Fiber, Antioxidants, Omega-3",Sodium,Sodium: 2300 mg
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Potassium, Fiber","Sodium, Cholesterol, Sugar","Sodium: 2300 mg, Cholesterol: 300 mg, Sugar: 36 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Potassium, Vitamin C","Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Obesity,"junk food, soda, sweets, fried items","Antioxidants, Fiber","Carbohydrates, Saturated Fat, Calories","Carbohydrates: 100 g, Saturated Fat: 20 g, Calories: 800 kcal"
+Atherosclerosis,"red meat, fried food, sugar","Magnesium, Fiber","Sodium, Sugar, Caffeine, Calories","Sodium: 2300 mg, Sugar: 36 g, Caffeine: 100 mg, Calories: 800 kcal"
+GERD,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Sugar","Carbohydrates: 100 g, Sugar: 36 g"
+Atherosclerosis,"red meat, fried food, sugar","Vitamin C, Fiber",Caffeine,Caffeine: 100 mg
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Magnesium","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Fiber, Omega-3, Magnesium","Saturated Fat, Sugar, Fat","Saturated Fat: 20 g, Sugar: 36 g, Fat: 100 g"
+Gout,"mutton, chicken, alcohol, organ meats","Vitamin C, Potassium","Caffeine, Carbohydrates, Saturated Fat, Cholesterol","Caffeine: 100 mg, Carbohydrates: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Celiac Disease - Stage 2,"wheat, barley, rye","Antioxidants, Vitamin C, Fiber","Carbohydrates, Cholesterol","Carbohydrates: 100 g, Cholesterol: 300 mg"
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Vitamin C","Saturated Fat, Alcohol, Cholesterol","Saturated Fat: 20 g, Alcohol: 100 g, Cholesterol: 300 mg"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Omega-3, Potassium, Vitamin C","Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Chronic Kidney Disease - Stage 3,"red meat, sodium, potassium-rich foods",Vitamin C,Sodium,Sodium: 2300 mg
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Fiber, Omega-3, Vitamin C","Sugar, Sodium, Caffeine, Carbohydrates","Sugar: 36 g, Sodium: 2300 mg, Caffeine: 100 mg, Carbohydrates: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Antioxidants,"Caffeine, Fat, Alcohol","Caffeine: 100 mg, Fat: 100 g, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Fiber, Omega-3","Alcohol, Cholesterol, Caffeine","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat",Fiber,Sugar,Sugar: 36 g
+Gout,"mutton, chicken, alcohol, organ meats","Potassium, Vitamin C, Magnesium","Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Sodium","Carbohydrates: 100 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Magnesium, Antioxidants","Carbohydrates, Sodium, Sugar, Alcohol","Carbohydrates: 100 g, Sodium: 2300 mg, Sugar: 36 g, Alcohol: 100 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Antioxidants, Potassium","Sodium, Calories, Fat","Sodium: 2300 mg, Calories: 800 kcal, Fat: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Omega-3,"Fat, Caffeine","Fat: 100 g, Caffeine: 100 mg"
+Migraine - Stage 2,"red meat, fried food, sugar","Omega-3, Antioxidants",Sugar,Sugar: 36 g
+Heart Failure,"trans fats, red meat, sugary foods",Vitamin C,"Carbohydrates, Fat","Carbohydrates: 100 g, Fat: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Omega-3, Magnesium","Fat, Alcohol, Calories","Fat: 100 g, Alcohol: 100 g, Calories: 800 kcal"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Potassium, Magnesium, Antioxidants","Sodium, Caffeine, Sugar","Sodium: 2300 mg, Caffeine: 100 mg, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar","Potassium, Omega-3, Magnesium","Fat, Sugar, Cholesterol, Calories","Fat: 100 g, Sugar: 36 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Celiac Disease,"wheat, barley, rye",Antioxidants,Sugar,Sugar: 36 g
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats",Magnesium,"Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Celiac Disease,"wheat, barley, rye","Magnesium, Vitamin C, Antioxidants","Alcohol, Calories, Fat, Caffeine","Alcohol: 100 g, Calories: 800 kcal, Fat: 100 g, Caffeine: 100 mg"
+Hyperlipidemia,"red meat, fried food, sugar",Antioxidants,Saturated Fat,Saturated Fat: 20 g
+Liver Cirrhosis,"alcohol, fried foods, red meat",Omega-3,Calories,Calories: 800 kcal
+GERD - Stage 2,"red meat, fried food, sugar",Vitamin C,"Caffeine, Carbohydrates, Saturated Fat, Calories","Caffeine: 100 mg, Carbohydrates: 100 g, Saturated Fat: 20 g, Calories: 800 kcal"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Magnesium, Fiber","Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Potassium, Fiber, Vitamin C","Calories, Cholesterol, Fat, Sodium","Calories: 800 kcal, Cholesterol: 300 mg, Fat: 100 g, Sodium: 2300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Magnesium,"Calories, Caffeine, Carbohydrates","Calories: 800 kcal, Caffeine: 100 mg, Carbohydrates: 100 g"
+Obesity - Stage 3,"junk food, soda, sweets, fried items",Antioxidants,Alcohol,Alcohol: 100 g
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Potassium, Magnesium","Caffeine, Saturated Fat","Caffeine: 100 mg, Saturated Fat: 20 g"
+Hypertension,"salt, pickles, canned soup, bacon",Fiber,Sodium,Sodium: 2300 mg
+Fatty Liver Disease,"alcohol, fried foods, red meat",Vitamin C,"Fat, Saturated Fat, Sugar","Fat: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Irritable Bowel Syndrome - Stage 1,"red meat, fried food, sugar",Fiber,"Sugar, Caffeine","Sugar: 36 g, Caffeine: 100 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Potassium, Omega-3, Magnesium","Fat, Caffeine","Fat: 100 g, Caffeine: 100 mg"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Potassium, Magnesium, Omega-3","Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Celiac Disease - Stage 2,"wheat, barley, rye","Omega-3, Magnesium, Fiber","Calories, Carbohydrates","Calories: 800 kcal, Carbohydrates: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Magnesium,"Fat, Alcohol, Sugar, Carbohydrates","Fat: 100 g, Alcohol: 100 g, Sugar: 36 g, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar","Fiber, Magnesium","Fat, Calories, Sodium, Caffeine","Fat: 100 g, Calories: 800 kcal, Sodium: 2300 mg, Caffeine: 100 mg"
+Obesity,"junk food, soda, sweets, fried items",Antioxidants,Calories,Calories: 800 kcal
+Liver Cirrhosis,"alcohol, fried foods, red meat","Antioxidants, Vitamin C, Magnesium","Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods",Magnesium,"Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Antioxidants, Vitamin C","Saturated Fat, Fat, Calories","Saturated Fat: 20 g, Fat: 100 g, Calories: 800 kcal"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats",Magnesium,"Carbohydrates, Alcohol, Saturated Fat","Carbohydrates: 100 g, Alcohol: 100 g, Saturated Fat: 20 g"
+Heart Failure,"trans fats, red meat, sugary foods","Vitamin C, Potassium","Caffeine, Carbohydrates","Caffeine: 100 mg, Carbohydrates: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Potassium, Vitamin C","Saturated Fat, Fat","Saturated Fat: 20 g, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Potassium, Antioxidants, Vitamin C","Saturated Fat, Cholesterol, Sugar","Saturated Fat: 20 g, Cholesterol: 300 mg, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar","Antioxidants, Vitamin C, Magnesium","Saturated Fat, Sodium","Saturated Fat: 20 g, Sodium: 2300 mg"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets",Vitamin C,Alcohol,Alcohol: 100 g
+Metabolic Syndrome,"red meat, fried food, sugar","Magnesium, Potassium","Saturated Fat, Sodium, Alcohol","Saturated Fat: 20 g, Sodium: 2300 mg, Alcohol: 100 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Vitamin C,Fat,Fat: 100 g
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods",Potassium,"Caffeine, Calories, Saturated Fat, Cholesterol","Caffeine: 100 mg, Calories: 800 kcal, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Magnesium, Omega-3","Calories, Carbohydrates, Alcohol","Calories: 800 kcal, Carbohydrates: 100 g, Alcohol: 100 g"
+Migraine,"red meat, fried food, sugar","Antioxidants, Potassium","Caffeine, Sugar, Fat","Caffeine: 100 mg, Sugar: 36 g, Fat: 100 g"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Antioxidants, Magnesium","Calories, Sugar","Calories: 800 kcal, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar",Vitamin C,"Sugar, Cholesterol","Sugar: 36 g, Cholesterol: 300 mg"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar","Antioxidants, Magnesium","Saturated Fat, Calories","Saturated Fat: 20 g, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods","Omega-3, Fiber, Potassium","Saturated Fat, Calories, Carbohydrates","Saturated Fat: 20 g, Calories: 800 kcal, Carbohydrates: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Magnesium,Carbohydrates,Carbohydrates: 100 g
+Hypothyroidism - Stage 2,"red meat, fried food, sugar",Fiber,"Sodium, Fat","Sodium: 2300 mg, Fat: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Omega-3, Vitamin C","Carbohydrates, Saturated Fat, Fat, Sodium","Carbohydrates: 100 g, Saturated Fat: 20 g, Fat: 100 g, Sodium: 2300 mg"
+GERD - Stage 1,"red meat, fried food, sugar","Antioxidants, Vitamin C","Cholesterol, Caffeine, Alcohol, Saturated Fat","Cholesterol: 300 mg, Caffeine: 100 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets","Magnesium, Vitamin C, Potassium","Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat",Fiber,"Sugar, Cholesterol, Calories, Fat","Sugar: 36 g, Cholesterol: 300 mg, Calories: 800 kcal, Fat: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon",Vitamin C,Saturated Fat,Saturated Fat: 20 g
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar",Magnesium,"Saturated Fat, Sugar, Alcohol","Saturated Fat: 20 g, Sugar: 36 g, Alcohol: 100 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets",Vitamin C,"Sodium, Sugar, Carbohydrates","Sodium: 2300 mg, Sugar: 36 g, Carbohydrates: 100 g"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Vitamin C, Omega-3","Carbohydrates, Cholesterol, Caffeine","Carbohydrates: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Hypothyroidism,"red meat, fried food, sugar","Omega-3, Potassium","Saturated Fat, Calories","Saturated Fat: 20 g, Calories: 800 kcal"
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Omega-3, Fiber","Saturated Fat, Alcohol, Caffeine","Saturated Fat: 20 g, Alcohol: 100 g, Caffeine: 100 mg"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Magnesium, Vitamin C","Sugar, Saturated Fat, Cholesterol","Sugar: 36 g, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Atherosclerosis - Stage 3,"red meat, fried food, sugar",Antioxidants,"Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods","Omega-3, Fiber",Cholesterol,Cholesterol: 300 mg
+Hypothyroidism,"red meat, fried food, sugar","Magnesium, Vitamin C, Antioxidants","Cholesterol, Sugar, Fat","Cholesterol: 300 mg, Sugar: 36 g, Fat: 100 g"
+GERD - Stage 1,"red meat, fried food, sugar",Vitamin C,Sugar,Sugar: 36 g
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Omega-3, Antioxidants, Fiber",Fat,Fat: 100 g
+Sleep Apnea,"red meat, fried food, sugar","Antioxidants, Vitamin C, Omega-3","Alcohol, Sodium, Carbohydrates","Alcohol: 100 g, Sodium: 2300 mg, Carbohydrates: 100 g"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Vitamin C, Omega-3, Antioxidants","Calories, Carbohydrates, Sugar, Saturated Fat","Calories: 800 kcal, Carbohydrates: 100 g, Sugar: 36 g, Saturated Fat: 20 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Potassium, Antioxidants","Fat, Saturated Fat, Caffeine","Fat: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Hypothyroidism,"red meat, fried food, sugar","Omega-3, Antioxidants","Saturated Fat, Sodium, Cholesterol","Saturated Fat: 20 g, Sodium: 2300 mg, Cholesterol: 300 mg"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Antioxidants, Potassium, Fiber","Carbohydrates, Alcohol, Caffeine, Saturated Fat","Carbohydrates: 100 g, Alcohol: 100 g, Caffeine: 100 mg, Saturated Fat: 20 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Potassium,"Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Celiac Disease - Stage 2,"wheat, barley, rye",Antioxidants,"Fat, Sugar, Alcohol, Cholesterol","Fat: 100 g, Sugar: 36 g, Alcohol: 100 g, Cholesterol: 300 mg"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Potassium, Antioxidants","Carbohydrates, Alcohol, Sugar","Carbohydrates: 100 g, Alcohol: 100 g, Sugar: 36 g"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar","Vitamin C, Magnesium, Omega-3","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+GERD - Stage 2,"red meat, fried food, sugar",Potassium,"Sodium, Cholesterol, Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Fat: 100 g"
+Migraine,"red meat, fried food, sugar",Vitamin C,Saturated Fat,Saturated Fat: 20 g
+Atherosclerosis - Stage 1,"red meat, fried food, sugar",Antioxidants,"Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Antioxidants, Omega-3, Potassium",Caffeine,Caffeine: 100 mg
+Hypothyroidism,"red meat, fried food, sugar","Magnesium, Antioxidants","Calories, Alcohol, Saturated Fat","Calories: 800 kcal, Alcohol: 100 g, Saturated Fat: 20 g"
+Migraine - Stage 2,"red meat, fried food, sugar","Omega-3, Potassium, Antioxidants","Fat, Alcohol","Fat: 100 g, Alcohol: 100 g"
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Potassium, Omega-3","Cholesterol, Saturated Fat","Cholesterol: 300 mg, Saturated Fat: 20 g"
+Prediabetes,"sugar, white rice, soda, sweets","Fiber, Vitamin C, Antioxidants",Sugar,Sugar: 36 g
+Migraine,"red meat, fried food, sugar","Vitamin C, Omega-3","Carbohydrates, Fat","Carbohydrates: 100 g, Fat: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Fiber, Magnesium","Alcohol, Cholesterol, Caffeine, Sugar","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg, Sugar: 36 g"
+Celiac Disease - Stage 1,"wheat, barley, rye","Antioxidants, Vitamin C","Fat, Sodium, Carbohydrates, Saturated Fat","Fat: 100 g, Sodium: 2300 mg, Carbohydrates: 100 g, Saturated Fat: 20 g"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Magnesium, Fiber",Carbohydrates,Carbohydrates: 100 g
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Antioxidants, Vitamin C, Omega-3","Caffeine, Alcohol, Carbohydrates, Sodium","Caffeine: 100 mg, Alcohol: 100 g, Carbohydrates: 100 g, Sodium: 2300 mg"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar",Fiber,"Caffeine, Sugar","Caffeine: 100 mg, Sugar: 36 g"
+Gout,"mutton, chicken, alcohol, organ meats","Omega-3, Potassium, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Celiac Disease - Stage 2,"wheat, barley, rye","Magnesium, Potassium",Fat,Fat: 100 g
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods",Omega-3,"Cholesterol, Fat, Saturated Fat","Cholesterol: 300 mg, Fat: 100 g, Saturated Fat: 20 g"
+Hyperlipidemia,"red meat, fried food, sugar","Omega-3, Magnesium, Potassium",Caffeine,Caffeine: 100 mg
+Atherosclerosis,"red meat, fried food, sugar",Fiber,"Calories, Sugar, Cholesterol, Saturated Fat","Calories: 800 kcal, Sugar: 36 g, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Fiber, Magnesium, Omega-3","Sodium, Calories","Sodium: 2300 mg, Calories: 800 kcal"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Fiber, Vitamin C, Potassium","Sugar, Alcohol, Carbohydrates","Sugar: 36 g, Alcohol: 100 g, Carbohydrates: 100 g"
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat","Antioxidants, Magnesium, Omega-3","Caffeine, Sugar, Saturated Fat","Caffeine: 100 mg, Sugar: 36 g, Saturated Fat: 20 g"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods",Antioxidants,"Alcohol, Saturated Fat, Sugar","Alcohol: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Omega-3, Potassium","Carbohydrates, Sugar, Calories","Carbohydrates: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Omega-3, Potassium, Antioxidants","Caffeine, Alcohol","Caffeine: 100 mg, Alcohol: 100 g"
+GERD - Stage 2,"red meat, fried food, sugar",Fiber,"Sodium, Sugar, Carbohydrates","Sodium: 2300 mg, Sugar: 36 g, Carbohydrates: 100 g"
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar",Magnesium,Cholesterol,Cholesterol: 300 mg
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Potassium, Fiber, Vitamin C","Alcohol, Fat, Caffeine","Alcohol: 100 g, Fat: 100 g, Caffeine: 100 mg"
+Celiac Disease,"wheat, barley, rye",Antioxidants,"Alcohol, Sodium","Alcohol: 100 g, Sodium: 2300 mg"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Magnesium, Antioxidants","Alcohol, Saturated Fat, Cholesterol","Alcohol: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Hypertension,"salt, pickles, canned soup, bacon",Magnesium,"Calories, Sugar, Fat","Calories: 800 kcal, Sugar: 36 g, Fat: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Potassium, Antioxidants, Fiber","Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Celiac Disease,"wheat, barley, rye",Vitamin C,"Cholesterol, Carbohydrates, Caffeine","Cholesterol: 300 mg, Carbohydrates: 100 g, Caffeine: 100 mg"
+Heart Failure,"trans fats, red meat, sugary foods","Magnesium, Omega-3","Caffeine, Saturated Fat, Alcohol","Caffeine: 100 mg, Saturated Fat: 20 g, Alcohol: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Potassium, Vitamin C, Antioxidants","Caffeine, Alcohol, Calories, Carbohydrates","Caffeine: 100 mg, Alcohol: 100 g, Calories: 800 kcal, Carbohydrates: 100 g"
+Migraine - Stage 1,"red meat, fried food, sugar","Vitamin C, Antioxidants, Magnesium",Sodium,Sodium: 2300 mg
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar",Fiber,"Calories, Sugar","Calories: 800 kcal, Sugar: 36 g"
+Migraine,"red meat, fried food, sugar",Omega-3,"Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Magnesium, Fiber","Sugar, Alcohol, Sodium","Sugar: 36 g, Alcohol: 100 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Omega-3,"Calories, Alcohol","Calories: 800 kcal, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Magnesium,"Alcohol, Sugar, Calories, Carbohydrates","Alcohol: 100 g, Sugar: 36 g, Calories: 800 kcal, Carbohydrates: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Magnesium, Vitamin C","Alcohol, Sodium, Cholesterol, Fat","Alcohol: 100 g, Sodium: 2300 mg, Cholesterol: 300 mg, Fat: 100 g"
+Atherosclerosis,"red meat, fried food, sugar",Vitamin C,"Sugar, Sodium, Carbohydrates","Sugar: 36 g, Sodium: 2300 mg, Carbohydrates: 100 g"
+Hypothyroidism,"red meat, fried food, sugar",Magnesium,"Fat, Sugar, Sodium","Fat: 100 g, Sugar: 36 g, Sodium: 2300 mg"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods","Vitamin C, Antioxidants, Fiber",Cholesterol,Cholesterol: 300 mg
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Fiber, Omega-3, Magnesium","Caffeine, Sugar, Fat","Caffeine: 100 mg, Sugar: 36 g, Fat: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar",Magnesium,"Fat, Calories, Saturated Fat, Cholesterol","Fat: 100 g, Calories: 800 kcal, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Migraine - Stage 2,"red meat, fried food, sugar","Omega-3, Fiber, Magnesium","Sugar, Cholesterol","Sugar: 36 g, Cholesterol: 300 mg"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Omega-3, Antioxidants",Carbohydrates,Carbohydrates: 100 g
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Antioxidants, Fiber, Vitamin C","Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat",Potassium,"Sodium, Sugar","Sodium: 2300 mg, Sugar: 36 g"
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Fiber, Vitamin C",Saturated Fat,Saturated Fat: 20 g
+Chronic Kidney Disease - Stage 3,"red meat, sodium, potassium-rich foods","Potassium, Antioxidants","Calories, Fat","Calories: 800 kcal, Fat: 100 g"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Fiber, Omega-3, Magnesium","Calories, Fat, Sugar, Cholesterol","Calories: 800 kcal, Fat: 100 g, Sugar: 36 g, Cholesterol: 300 mg"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat",Fiber,"Alcohol, Fat, Caffeine","Alcohol: 100 g, Fat: 100 g, Caffeine: 100 mg"
+Hypertension,"salt, pickles, canned soup, bacon",Magnesium,"Caffeine, Saturated Fat, Fat","Caffeine: 100 mg, Saturated Fat: 20 g, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Vitamin C, Potassium, Antioxidants","Sodium, Fat, Cholesterol","Sodium: 2300 mg, Fat: 100 g, Cholesterol: 300 mg"
+Hypertension,"salt, pickles, canned soup, bacon",Omega-3,"Saturated Fat, Cholesterol, Alcohol","Saturated Fat: 20 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Potassium,"Fat, Cholesterol, Carbohydrates","Fat: 100 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Vitamin C, Antioxidants, Omega-3","Saturated Fat, Sodium","Saturated Fat: 20 g, Sodium: 2300 mg"
+Obesity,"junk food, soda, sweets, fried items",Omega-3,Sodium,Sodium: 2300 mg
+Hypothyroidism - Stage 2,"red meat, fried food, sugar","Potassium, Omega-3, Magnesium",Calories,Calories: 800 kcal
+Heart Failure,"trans fats, red meat, sugary foods","Fiber, Omega-3, Magnesium",Carbohydrates,Carbohydrates: 100 g
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Antioxidants, Potassium","Calories, Caffeine, Cholesterol","Calories: 800 kcal, Caffeine: 100 mg, Cholesterol: 300 mg"
+Hypertension,"salt, pickles, canned soup, bacon",Fiber,"Sodium, Saturated Fat","Sodium: 2300 mg, Saturated Fat: 20 g"
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Fiber, Magnesium, Potassium","Carbohydrates, Cholesterol, Sodium, Caffeine","Carbohydrates: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg, Caffeine: 100 mg"
+GERD - Stage 2,"red meat, fried food, sugar",Magnesium,"Saturated Fat, Caffeine, Sugar, Calories","Saturated Fat: 20 g, Caffeine: 100 mg, Sugar: 36 g, Calories: 800 kcal"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar",Antioxidants,"Sodium, Cholesterol","Sodium: 2300 mg, Cholesterol: 300 mg"
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Vitamin C, Magnesium, Fiber","Caffeine, Sugar, Alcohol","Caffeine: 100 mg, Sugar: 36 g, Alcohol: 100 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar",Vitamin C,Fat,Fat: 100 g
+Atherosclerosis,"red meat, fried food, sugar","Magnesium, Potassium","Calories, Saturated Fat, Sugar, Caffeine","Calories: 800 kcal, Saturated Fat: 20 g, Sugar: 36 g, Caffeine: 100 mg"
+Celiac Disease,"wheat, barley, rye","Antioxidants, Vitamin C, Magnesium",Carbohydrates,Carbohydrates: 100 g
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Magnesium, Potassium","Cholesterol, Saturated Fat","Cholesterol: 300 mg, Saturated Fat: 20 g"
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Antioxidants, Omega-3, Fiber","Sodium, Calories, Caffeine, Alcohol","Sodium: 2300 mg, Calories: 800 kcal, Caffeine: 100 mg, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon","Omega-3, Magnesium","Carbohydrates, Saturated Fat, Sugar, Alcohol","Carbohydrates: 100 g, Saturated Fat: 20 g, Sugar: 36 g, Alcohol: 100 g"
+Irritable Bowel Syndrome - Stage 3,"red meat, fried food, sugar","Magnesium, Potassium","Fat, Alcohol, Caffeine, Carbohydrates","Fat: 100 g, Alcohol: 100 g, Caffeine: 100 mg, Carbohydrates: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Potassium, Antioxidants, Fiber",Calories,Calories: 800 kcal
+Celiac Disease,"wheat, barley, rye",Magnesium,Calories,Calories: 800 kcal
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Omega-3, Potassium","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Magnesium, Antioxidants","Sugar, Fat, Calories","Sugar: 36 g, Fat: 100 g, Calories: 800 kcal"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Omega-3,Caffeine,Caffeine: 100 mg
+Celiac Disease,"wheat, barley, rye","Potassium, Antioxidants, Omega-3",Cholesterol,Cholesterol: 300 mg
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Antioxidants, Magnesium, Potassium",Sugar,Sugar: 36 g
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Magnesium, Fiber, Potassium","Carbohydrates, Cholesterol, Sodium, Calories","Carbohydrates: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg, Calories: 800 kcal"
+Prediabetes - Stage 3,"sugar, white rice, soda, sweets","Potassium, Omega-3, Antioxidants","Caffeine, Calories, Fat","Caffeine: 100 mg, Calories: 800 kcal, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Antioxidants, Vitamin C","Caffeine, Carbohydrates","Caffeine: 100 mg, Carbohydrates: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Antioxidants,"Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Prediabetes - Stage 3,"sugar, white rice, soda, sweets","Vitamin C, Fiber","Fat, Caffeine, Sodium, Cholesterol","Fat: 100 g, Caffeine: 100 mg, Sodium: 2300 mg, Cholesterol: 300 mg"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Omega-3,"Saturated Fat, Sodium, Caffeine, Alcohol","Saturated Fat: 20 g, Sodium: 2300 mg, Caffeine: 100 mg, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Fiber","Saturated Fat, Carbohydrates, Cholesterol, Sodium","Saturated Fat: 20 g, Carbohydrates: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar","Fiber, Magnesium, Antioxidants","Fat, Cholesterol, Saturated Fat","Fat: 100 g, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Obesity,"junk food, soda, sweets, fried items",Potassium,"Carbohydrates, Fat, Alcohol","Carbohydrates: 100 g, Fat: 100 g, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Magnesium, Potassium","Sugar, Sodium, Fat","Sugar: 36 g, Sodium: 2300 mg, Fat: 100 g"
+Celiac Disease - Stage 3,"wheat, barley, rye","Fiber, Omega-3",Cholesterol,Cholesterol: 300 mg
+Migraine - Stage 3,"red meat, fried food, sugar","Potassium, Vitamin C","Sodium, Calories, Saturated Fat","Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g"
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Omega-3, Fiber, Magnesium","Calories, Carbohydrates, Cholesterol, Sugar","Calories: 800 kcal, Carbohydrates: 100 g, Cholesterol: 300 mg, Sugar: 36 g"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Magnesium, Potassium, Antioxidants","Cholesterol, Carbohydrates, Sodium, Caffeine","Cholesterol: 300 mg, Carbohydrates: 100 g, Sodium: 2300 mg, Caffeine: 100 mg"
+Sleep Apnea,"red meat, fried food, sugar","Fiber, Antioxidants, Magnesium",Caffeine,Caffeine: 100 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar",Omega-3,"Cholesterol, Saturated Fat, Carbohydrates","Cholesterol: 300 mg, Saturated Fat: 20 g, Carbohydrates: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Magnesium,"Sodium, Cholesterol, Fat, Sugar","Sodium: 2300 mg, Cholesterol: 300 mg, Fat: 100 g, Sugar: 36 g"
+Sleep Apnea - Stage 3,"red meat, fried food, sugar","Omega-3, Fiber, Potassium","Sugar, Caffeine, Fat","Sugar: 36 g, Caffeine: 100 mg, Fat: 100 g"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods","Fiber, Omega-3","Sodium, Caffeine, Calories","Sodium: 2300 mg, Caffeine: 100 mg, Calories: 800 kcal"
+Celiac Disease - Stage 2,"wheat, barley, rye","Magnesium, Potassium, Omega-3","Alcohol, Carbohydrates, Saturated Fat, Calories","Alcohol: 100 g, Carbohydrates: 100 g, Saturated Fat: 20 g, Calories: 800 kcal"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Potassium, Antioxidants",Sugar,Sugar: 36 g
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Antioxidants, Fiber",Saturated Fat,Saturated Fat: 20 g
+Prediabetes,"sugar, white rice, soda, sweets",Antioxidants,"Caffeine, Calories, Sodium","Caffeine: 100 mg, Calories: 800 kcal, Sodium: 2300 mg"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Omega-3,Carbohydrates,Carbohydrates: 100 g
+Prediabetes,"sugar, white rice, soda, sweets",Vitamin C,"Sodium, Alcohol, Calories, Cholesterol","Sodium: 2300 mg, Alcohol: 100 g, Calories: 800 kcal, Cholesterol: 300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Potassium, Omega-3, Vitamin C","Fat, Alcohol","Fat: 100 g, Alcohol: 100 g"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Fiber","Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Magnesium","Alcohol, Sodium, Calories, Cholesterol","Alcohol: 100 g, Sodium: 2300 mg, Calories: 800 kcal, Cholesterol: 300 mg"
+Celiac Disease - Stage 3,"wheat, barley, rye","Fiber, Magnesium, Potassium",Cholesterol,Cholesterol: 300 mg
+Hyperlipidemia,"red meat, fried food, sugar","Fiber, Antioxidants",Saturated Fat,Saturated Fat: 20 g
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Omega-3, Antioxidants","Saturated Fat, Carbohydrates","Saturated Fat: 20 g, Carbohydrates: 100 g"
+Gout - Stage 1,"mutton, chicken, alcohol, organ meats","Omega-3, Magnesium, Vitamin C","Calories, Sodium, Saturated Fat","Calories: 800 kcal, Sodium: 2300 mg, Saturated Fat: 20 g"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Fiber","Cholesterol, Sodium, Fat","Cholesterol: 300 mg, Sodium: 2300 mg, Fat: 100 g"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods","Fiber, Magnesium, Vitamin C",Calories,Calories: 800 kcal
+GERD,"red meat, fried food, sugar",Potassium,"Sodium, Alcohol, Saturated Fat","Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Fiber, Potassium","Calories, Carbohydrates","Calories: 800 kcal, Carbohydrates: 100 g"
+Heart Failure - Stage 1,"trans fats, red meat, sugary foods",Vitamin C,Saturated Fat,Saturated Fat: 20 g
+Atherosclerosis - Stage 1,"red meat, fried food, sugar","Vitamin C, Magnesium","Alcohol, Saturated Fat, Cholesterol, Fat","Alcohol: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg, Fat: 100 g"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats",Potassium,"Carbohydrates, Calories, Cholesterol","Carbohydrates: 100 g, Calories: 800 kcal, Cholesterol: 300 mg"
+GERD,"red meat, fried food, sugar",Magnesium,"Carbohydrates, Cholesterol, Saturated Fat","Carbohydrates: 100 g, Cholesterol: 300 mg, Saturated Fat: 20 g"
+GERD,"red meat, fried food, sugar","Magnesium, Fiber",Fat,Fat: 100 g
+Celiac Disease,"wheat, barley, rye","Fiber, Omega-3",Saturated Fat,Saturated Fat: 20 g
+Hypothyroidism,"red meat, fried food, sugar","Omega-3, Magnesium",Alcohol,Alcohol: 100 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Antioxidants,"Fat, Saturated Fat, Alcohol, Sodium","Fat: 100 g, Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg"
+Atherosclerosis,"red meat, fried food, sugar",Potassium,"Cholesterol, Caffeine, Fat, Alcohol","Cholesterol: 300 mg, Caffeine: 100 mg, Fat: 100 g, Alcohol: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Magnesium, Potassium","Sodium, Alcohol, Fat","Sodium: 2300 mg, Alcohol: 100 g, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Omega-3, Potassium, Fiber","Saturated Fat, Calories, Cholesterol","Saturated Fat: 20 g, Calories: 800 kcal, Cholesterol: 300 mg"
+Heart Failure,"trans fats, red meat, sugary foods","Potassium, Vitamin C, Antioxidants","Caffeine, Saturated Fat, Carbohydrates, Fat","Caffeine: 100 mg, Saturated Fat: 20 g, Carbohydrates: 100 g, Fat: 100 g"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets","Antioxidants, Potassium, Omega-3","Saturated Fat, Caffeine, Sugar","Saturated Fat: 20 g, Caffeine: 100 mg, Sugar: 36 g"
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat","Antioxidants, Vitamin C",Fat,Fat: 100 g
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Fiber, Vitamin C","Sodium, Fat, Alcohol, Saturated Fat","Sodium: 2300 mg, Fat: 100 g, Alcohol: 100 g, Saturated Fat: 20 g"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Magnesium, Vitamin C","Caffeine, Fat, Alcohol","Caffeine: 100 mg, Fat: 100 g, Alcohol: 100 g"
+Obesity,"junk food, soda, sweets, fried items","Magnesium, Potassium, Omega-3","Sugar, Caffeine, Calories, Alcohol","Sugar: 36 g, Caffeine: 100 mg, Calories: 800 kcal, Alcohol: 100 g"
+Celiac Disease,"wheat, barley, rye","Potassium, Vitamin C, Fiber","Caffeine, Sugar, Saturated Fat, Sodium","Caffeine: 100 mg, Sugar: 36 g, Saturated Fat: 20 g, Sodium: 2300 mg"
+Hyperlipidemia,"red meat, fried food, sugar","Fiber, Antioxidants, Omega-3",Fat,Fat: 100 g
+Sleep Apnea,"red meat, fried food, sugar","Omega-3, Magnesium","Carbohydrates, Caffeine","Carbohydrates: 100 g, Caffeine: 100 mg"
+Sleep Apnea,"red meat, fried food, sugar",Fiber,"Sugar, Saturated Fat","Sugar: 36 g, Saturated Fat: 20 g"
+Hypertension,"salt, pickles, canned soup, bacon",Magnesium,"Saturated Fat, Calories, Sodium, Alcohol","Saturated Fat: 20 g, Calories: 800 kcal, Sodium: 2300 mg, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Fiber,"Alcohol, Calories, Sugar, Carbohydrates","Alcohol: 100 g, Calories: 800 kcal, Sugar: 36 g, Carbohydrates: 100 g"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Omega-3,"Sodium, Alcohol, Saturated Fat, Caffeine","Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets",Omega-3,Sodium,Sodium: 2300 mg
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon",Omega-3,"Sugar, Sodium, Saturated Fat, Caffeine","Sugar: 36 g, Sodium: 2300 mg, Saturated Fat: 20 g, Caffeine: 100 mg"
+Migraine,"red meat, fried food, sugar","Potassium, Antioxidants","Saturated Fat, Sodium, Sugar","Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Omega-3, Antioxidants, Vitamin C",Sodium,Sodium: 2300 mg
+Sleep Apnea,"red meat, fried food, sugar","Fiber, Omega-3, Antioxidants","Sodium, Cholesterol","Sodium: 2300 mg, Cholesterol: 300 mg"
+Hypothyroidism,"red meat, fried food, sugar","Potassium, Antioxidants","Carbohydrates, Saturated Fat, Sodium, Caffeine","Carbohydrates: 100 g, Saturated Fat: 20 g, Sodium: 2300 mg, Caffeine: 100 mg"
+Atherosclerosis,"red meat, fried food, sugar",Potassium,"Alcohol, Calories, Sodium","Alcohol: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Prediabetes,"sugar, white rice, soda, sweets","Fiber, Magnesium, Potassium","Sodium, Sugar, Calories","Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal"
+Prediabetes - Stage 1,"sugar, white rice, soda, sweets","Magnesium, Vitamin C, Potassium",Alcohol,Alcohol: 100 g
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon","Magnesium, Vitamin C","Cholesterol, Calories, Saturated Fat","Cholesterol: 300 mg, Calories: 800 kcal, Saturated Fat: 20 g"
+Gout,"mutton, chicken, alcohol, organ meats",Potassium,"Sugar, Carbohydrates, Calories, Fat","Sugar: 36 g, Carbohydrates: 100 g, Calories: 800 kcal, Fat: 100 g"
+Irritable Bowel Syndrome - Stage 3,"red meat, fried food, sugar",Fiber,Caffeine,Caffeine: 100 mg
+Metabolic Syndrome,"red meat, fried food, sugar","Omega-3, Antioxidants","Saturated Fat, Fat","Saturated Fat: 20 g, Fat: 100 g"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon",Vitamin C,"Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Migraine,"red meat, fried food, sugar","Omega-3, Potassium",Sugar,Sugar: 36 g
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Antioxidants, Vitamin C, Fiber","Saturated Fat, Cholesterol","Saturated Fat: 20 g, Cholesterol: 300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Fiber, Antioxidants, Vitamin C",Carbohydrates,Carbohydrates: 100 g
+Metabolic Syndrome,"red meat, fried food, sugar","Vitamin C, Magnesium",Calories,Calories: 800 kcal
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar","Magnesium, Fiber","Fat, Sodium, Cholesterol, Alcohol","Fat: 100 g, Sodium: 2300 mg, Cholesterol: 300 mg, Alcohol: 100 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Omega-3, Antioxidants","Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Magnesium, Omega-3, Fiber",Carbohydrates,Carbohydrates: 100 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon","Vitamin C, Omega-3, Antioxidants",Carbohydrates,Carbohydrates: 100 g
+Obesity,"junk food, soda, sweets, fried items",Omega-3,Caffeine,Caffeine: 100 mg
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Potassium,"Sodium, Cholesterol","Sodium: 2300 mg, Cholesterol: 300 mg"
+Migraine,"red meat, fried food, sugar","Fiber, Vitamin C, Omega-3","Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Celiac Disease - Stage 2,"wheat, barley, rye","Potassium, Antioxidants, Omega-3",Fat,Fat: 100 g
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Magnesium, Omega-3","Calories, Carbohydrates, Fat","Calories: 800 kcal, Carbohydrates: 100 g, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Fiber, Omega-3","Fat, Sodium, Carbohydrates, Caffeine","Fat: 100 g, Sodium: 2300 mg, Carbohydrates: 100 g, Caffeine: 100 mg"
+Obesity,"junk food, soda, sweets, fried items",Vitamin C,"Carbohydrates, Caffeine, Sodium, Alcohol","Carbohydrates: 100 g, Caffeine: 100 mg, Sodium: 2300 mg, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Omega-3, Fiber, Vitamin C","Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Magnesium, Omega-3","Cholesterol, Calories, Sodium","Cholesterol: 300 mg, Calories: 800 kcal, Sodium: 2300 mg"
+Migraine,"red meat, fried food, sugar",Vitamin C,Carbohydrates,Carbohydrates: 100 g
+Metabolic Syndrome,"red meat, fried food, sugar","Fiber, Magnesium, Vitamin C","Cholesterol, Saturated Fat, Sugar, Caffeine","Cholesterol: 300 mg, Saturated Fat: 20 g, Sugar: 36 g, Caffeine: 100 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Potassium,"Sodium, Saturated Fat, Alcohol","Sodium: 2300 mg, Saturated Fat: 20 g, Alcohol: 100 g"
+Gout,"mutton, chicken, alcohol, organ meats","Magnesium, Vitamin C",Sodium,Sodium: 2300 mg
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Fiber, Omega-3, Potassium","Fat, Saturated Fat","Fat: 100 g, Saturated Fat: 20 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Omega-3","Cholesterol, Saturated Fat, Carbohydrates, Fat","Cholesterol: 300 mg, Saturated Fat: 20 g, Carbohydrates: 100 g, Fat: 100 g"
+Hypothyroidism,"red meat, fried food, sugar",Potassium,"Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Celiac Disease,"wheat, barley, rye",Potassium,"Cholesterol, Alcohol, Sugar","Cholesterol: 300 mg, Alcohol: 100 g, Sugar: 36 g"
+Fatty Liver Disease - Stage 1,"alcohol, fried foods, red meat","Fiber, Potassium",Saturated Fat,Saturated Fat: 20 g
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods",Vitamin C,"Caffeine, Carbohydrates, Calories, Sodium","Caffeine: 100 mg, Carbohydrates: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Fiber, Vitamin C, Magnesium",Sugar,Sugar: 36 g
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Vitamin C, Antioxidants","Sodium, Cholesterol","Sodium: 2300 mg, Cholesterol: 300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Potassium, Fiber","Carbohydrates, Calories","Carbohydrates: 100 g, Calories: 800 kcal"
+GERD - Stage 3,"red meat, fried food, sugar","Fiber, Vitamin C","Caffeine, Carbohydrates, Sugar","Caffeine: 100 mg, Carbohydrates: 100 g, Sugar: 36 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Potassium, Antioxidants",Saturated Fat,Saturated Fat: 20 g
+Gout,"mutton, chicken, alcohol, organ meats","Fiber, Vitamin C","Calories, Alcohol, Cholesterol","Calories: 800 kcal, Alcohol: 100 g, Cholesterol: 300 mg"
+GERD,"red meat, fried food, sugar",Potassium,"Sodium, Calories, Saturated Fat","Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g"
+Hypothyroidism,"red meat, fried food, sugar","Vitamin C, Omega-3","Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Magnesium, Fiber","Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Heart Failure,"trans fats, red meat, sugary foods","Fiber, Magnesium","Sodium, Carbohydrates","Sodium: 2300 mg, Carbohydrates: 100 g"
+Migraine - Stage 3,"red meat, fried food, sugar",Antioxidants,"Fat, Caffeine, Alcohol, Sodium","Fat: 100 g, Caffeine: 100 mg, Alcohol: 100 g, Sodium: 2300 mg"
+Celiac Disease,"wheat, barley, rye","Magnesium, Vitamin C","Saturated Fat, Alcohol, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg"
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Antioxidants, Potassium","Sugar, Fat, Carbohydrates","Sugar: 36 g, Fat: 100 g, Carbohydrates: 100 g"
+Sleep Apnea - Stage 2,"red meat, fried food, sugar",Vitamin C,"Alcohol, Calories, Sodium","Alcohol: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods",Vitamin C,"Saturated Fat, Sodium, Alcohol, Caffeine","Saturated Fat: 20 g, Sodium: 2300 mg, Alcohol: 100 g, Caffeine: 100 mg"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Fiber, Vitamin C",Saturated Fat,Saturated Fat: 20 g
+GERD,"red meat, fried food, sugar","Fiber, Vitamin C, Magnesium","Cholesterol, Carbohydrates","Cholesterol: 300 mg, Carbohydrates: 100 g"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Fiber","Calories, Alcohol, Sodium, Carbohydrates","Calories: 800 kcal, Alcohol: 100 g, Sodium: 2300 mg, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar","Fiber, Magnesium","Fat, Carbohydrates, Calories","Fat: 100 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Hypothyroidism - Stage 2,"red meat, fried food, sugar",Potassium,"Alcohol, Caffeine","Alcohol: 100 g, Caffeine: 100 mg"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar","Potassium, Antioxidants, Omega-3","Cholesterol, Carbohydrates, Saturated Fat, Sugar","Cholesterol: 300 mg, Carbohydrates: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Omega-3, Vitamin C",Caffeine,Caffeine: 100 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Antioxidants, Magnesium",Fat,Fat: 100 g
+Obesity,"junk food, soda, sweets, fried items",Magnesium,"Calories, Cholesterol, Fat, Carbohydrates","Calories: 800 kcal, Cholesterol: 300 mg, Fat: 100 g, Carbohydrates: 100 g"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Omega-3, Fiber, Antioxidants","Alcohol, Caffeine, Cholesterol","Alcohol: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Metabolic Syndrome - Stage 3,"red meat, fried food, sugar",Omega-3,"Alcohol, Sugar, Cholesterol, Calories","Alcohol: 100 g, Sugar: 36 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods",Omega-3,Caffeine,Caffeine: 100 mg
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat","Vitamin C, Fiber","Sodium, Alcohol, Saturated Fat","Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+GERD - Stage 1,"red meat, fried food, sugar","Vitamin C, Fiber","Sodium, Fat","Sodium: 2300 mg, Fat: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Fiber, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Omega-3, Antioxidants, Magnesium","Alcohol, Carbohydrates, Cholesterol","Alcohol: 100 g, Carbohydrates: 100 g, Cholesterol: 300 mg"
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Fiber","Carbohydrates, Sodium, Fat","Carbohydrates: 100 g, Sodium: 2300 mg, Fat: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Antioxidants, Potassium, Omega-3","Saturated Fat, Cholesterol, Calories","Saturated Fat: 20 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar","Vitamin C, Omega-3, Potassium",Sodium,Sodium: 2300 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Magnesium, Vitamin C, Potassium","Alcohol, Cholesterol, Sugar","Alcohol: 100 g, Cholesterol: 300 mg, Sugar: 36 g"
+Celiac Disease - Stage 3,"wheat, barley, rye","Potassium, Vitamin C, Magnesium","Sodium, Saturated Fat, Fat, Sugar","Sodium: 2300 mg, Saturated Fat: 20 g, Fat: 100 g, Sugar: 36 g"
+Chronic Kidney Disease - Stage 2,"red meat, sodium, potassium-rich foods",Omega-3,"Caffeine, Calories","Caffeine: 100 mg, Calories: 800 kcal"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Omega-3,"Sugar, Fat, Cholesterol, Sodium","Sugar: 36 g, Fat: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Potassium, Fiber","Saturated Fat, Carbohydrates, Calories, Sugar","Saturated Fat: 20 g, Carbohydrates: 100 g, Calories: 800 kcal, Sugar: 36 g"
+Atherosclerosis,"red meat, fried food, sugar",Vitamin C,"Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Sleep Apnea,"red meat, fried food, sugar",Omega-3,Carbohydrates,Carbohydrates: 100 g
+Gout,"mutton, chicken, alcohol, organ meats","Fiber, Magnesium",Alcohol,Alcohol: 100 g
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets","Potassium, Omega-3",Calories,Calories: 800 kcal
+Celiac Disease - Stage 1,"wheat, barley, rye",Fiber,Fat,Fat: 100 g
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Vitamin C, Magnesium, Fiber",Sodium,Sodium: 2300 mg
+Hypertension,"salt, pickles, canned soup, bacon","Potassium, Vitamin C",Calories,Calories: 800 kcal
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Potassium, Omega-3","Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Antioxidants, Omega-3, Vitamin C","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Celiac Disease - Stage 2,"wheat, barley, rye","Magnesium, Potassium","Carbohydrates, Cholesterol","Carbohydrates: 100 g, Cholesterol: 300 mg"
+Heart Failure,"trans fats, red meat, sugary foods","Potassium, Fiber","Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Celiac Disease - Stage 1,"wheat, barley, rye","Omega-3, Magnesium","Caffeine, Cholesterol, Saturated Fat","Caffeine: 100 mg, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Metabolic Syndrome,"red meat, fried food, sugar","Magnesium, Vitamin C, Potassium",Carbohydrates,Carbohydrates: 100 g
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Potassium,"Sugar, Fat, Alcohol, Caffeine","Sugar: 36 g, Fat: 100 g, Alcohol: 100 g, Caffeine: 100 mg"
+Gout,"mutton, chicken, alcohol, organ meats",Antioxidants,"Cholesterol, Alcohol, Saturated Fat","Cholesterol: 300 mg, Alcohol: 100 g, Saturated Fat: 20 g"
+Hyperlipidemia,"red meat, fried food, sugar",Vitamin C,"Calories, Saturated Fat, Carbohydrates, Caffeine","Calories: 800 kcal, Saturated Fat: 20 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar",Omega-3,Fat,Fat: 100 g
+Coronary Artery Disease - Stage 3,"trans fats, red meat, sugary foods","Omega-3, Potassium, Magnesium","Sodium, Alcohol","Sodium: 2300 mg, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Potassium,"Cholesterol, Caffeine","Cholesterol: 300 mg, Caffeine: 100 mg"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat",Fiber,Carbohydrates,Carbohydrates: 100 g
+GERD - Stage 2,"red meat, fried food, sugar","Antioxidants, Vitamin C","Sodium, Cholesterol, Calories, Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Calories: 800 kcal, Fat: 100 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Antioxidants, Magnesium","Calories, Saturated Fat","Calories: 800 kcal, Saturated Fat: 20 g"
+Prediabetes - Stage 1,"sugar, white rice, soda, sweets",Vitamin C,"Saturated Fat, Alcohol, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg"
+Celiac Disease,"wheat, barley, rye","Antioxidants, Magnesium",Fat,Fat: 100 g
+Atherosclerosis,"red meat, fried food, sugar","Vitamin C, Magnesium","Carbohydrates, Fat","Carbohydrates: 100 g, Fat: 100 g"
+Sleep Apnea - Stage 3,"red meat, fried food, sugar",Magnesium,"Alcohol, Caffeine, Sodium, Cholesterol","Alcohol: 100 g, Caffeine: 100 mg, Sodium: 2300 mg, Cholesterol: 300 mg"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Antioxidants, Omega-3, Vitamin C","Alcohol, Sugar","Alcohol: 100 g, Sugar: 36 g"
+Obesity,"junk food, soda, sweets, fried items","Vitamin C, Antioxidants",Carbohydrates,Carbohydrates: 100 g
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Fiber, Potassium, Magnesium","Carbohydrates, Sugar, Alcohol, Calories","Carbohydrates: 100 g, Sugar: 36 g, Alcohol: 100 g, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods",Antioxidants,"Sodium, Carbohydrates, Fat","Sodium: 2300 mg, Carbohydrates: 100 g, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets",Fiber,"Sugar, Cholesterol, Caffeine, Fat","Sugar: 36 g, Cholesterol: 300 mg, Caffeine: 100 mg, Fat: 100 g"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Vitamin C, Magnesium, Omega-3","Calories, Carbohydrates, Saturated Fat, Cholesterol","Calories: 800 kcal, Carbohydrates: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Celiac Disease,"wheat, barley, rye",Antioxidants,Saturated Fat,Saturated Fat: 20 g
+Migraine - Stage 1,"red meat, fried food, sugar","Potassium, Fiber","Sugar, Caffeine, Carbohydrates","Sugar: 36 g, Caffeine: 100 mg, Carbohydrates: 100 g"
+Celiac Disease,"wheat, barley, rye",Omega-3,"Carbohydrates, Calories, Sodium","Carbohydrates: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Vitamin C,"Sodium, Alcohol, Calories","Sodium: 2300 mg, Alcohol: 100 g, Calories: 800 kcal"
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Antioxidants, Potassium","Caffeine, Sugar, Fat","Caffeine: 100 mg, Sugar: 36 g, Fat: 100 g"
+GERD,"red meat, fried food, sugar",Omega-3,"Saturated Fat, Calories, Fat, Carbohydrates","Saturated Fat: 20 g, Calories: 800 kcal, Fat: 100 g, Carbohydrates: 100 g"
+Gout,"mutton, chicken, alcohol, organ meats","Omega-3, Vitamin C, Fiber","Sugar, Carbohydrates, Caffeine","Sugar: 36 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Antioxidants,Saturated Fat,Saturated Fat: 20 g
+Hypothyroidism,"red meat, fried food, sugar",Fiber,"Saturated Fat, Alcohol, Sodium, Fat","Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg, Fat: 100 g"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Antioxidants, Vitamin C","Carbohydrates, Sugar, Alcohol, Calories","Carbohydrates: 100 g, Sugar: 36 g, Alcohol: 100 g, Calories: 800 kcal"
+Hyperlipidemia,"red meat, fried food, sugar","Fiber, Vitamin C","Calories, Sodium","Calories: 800 kcal, Sodium: 2300 mg"
+Prediabetes,"sugar, white rice, soda, sweets","Potassium, Fiber",Sodium,Sodium: 2300 mg
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Vitamin C,"Sodium, Sugar, Saturated Fat, Caffeine","Sodium: 2300 mg, Sugar: 36 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Celiac Disease,"wheat, barley, rye",Potassium,"Sodium, Carbohydrates, Caffeine","Sodium: 2300 mg, Carbohydrates: 100 g, Caffeine: 100 mg"
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Vitamin C,"Sodium, Sugar","Sodium: 2300 mg, Sugar: 36 g"
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Omega-3, Potassium, Antioxidants","Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+GERD - Stage 1,"red meat, fried food, sugar",Potassium,"Sugar, Caffeine","Sugar: 36 g, Caffeine: 100 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Vitamin C, Antioxidants","Saturated Fat, Sugar, Alcohol, Calories","Saturated Fat: 20 g, Sugar: 36 g, Alcohol: 100 g, Calories: 800 kcal"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Potassium,"Saturated Fat, Calories, Alcohol","Saturated Fat: 20 g, Calories: 800 kcal, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon",Antioxidants,"Calories, Sodium, Cholesterol, Alcohol","Calories: 800 kcal, Sodium: 2300 mg, Cholesterol: 300 mg, Alcohol: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Potassium",Sugar,Sugar: 36 g
+Gout,"mutton, chicken, alcohol, organ meats",Fiber,"Saturated Fat, Carbohydrates, Fat","Saturated Fat: 20 g, Carbohydrates: 100 g, Fat: 100 g"
+Celiac Disease - Stage 3,"wheat, barley, rye","Vitamin C, Fiber, Magnesium",Carbohydrates,Carbohydrates: 100 g
+Celiac Disease,"wheat, barley, rye","Vitamin C, Omega-3, Potassium","Saturated Fat, Fat, Carbohydrates, Calories","Saturated Fat: 20 g, Fat: 100 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Prediabetes,"sugar, white rice, soda, sweets",Fiber,"Carbohydrates, Alcohol, Sugar","Carbohydrates: 100 g, Alcohol: 100 g, Sugar: 36 g"
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Potassium, Fiber","Sodium, Sugar, Saturated Fat, Alcohol","Sodium: 2300 mg, Sugar: 36 g, Saturated Fat: 20 g, Alcohol: 100 g"
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Fiber, Omega-3",Alcohol,Alcohol: 100 g
+Gout,"mutton, chicken, alcohol, organ meats","Magnesium, Fiber, Vitamin C","Saturated Fat, Alcohol, Calories","Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Antioxidants,"Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Fiber, Vitamin C, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar",Fiber,"Carbohydrates, Calories, Cholesterol, Caffeine","Carbohydrates: 100 g, Calories: 800 kcal, Cholesterol: 300 mg, Caffeine: 100 mg"
+Metabolic Syndrome - Stage 1,"red meat, fried food, sugar",Omega-3,Sugar,Sugar: 36 g
+GERD,"red meat, fried food, sugar","Fiber, Vitamin C",Caffeine,Caffeine: 100 mg
+Metabolic Syndrome,"red meat, fried food, sugar",Omega-3,"Alcohol, Sugar","Alcohol: 100 g, Sugar: 36 g"
+Chronic Kidney Disease - Stage 3,"red meat, sodium, potassium-rich foods","Fiber, Vitamin C, Magnesium","Caffeine, Saturated Fat, Alcohol, Calories","Caffeine: 100 mg, Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal"
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Antioxidants, Vitamin C","Cholesterol, Fat, Calories","Cholesterol: 300 mg, Fat: 100 g, Calories: 800 kcal"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Magnesium, Fiber","Alcohol, Calories","Alcohol: 100 g, Calories: 800 kcal"
+Hypothyroidism,"red meat, fried food, sugar",Antioxidants,"Carbohydrates, Cholesterol","Carbohydrates: 100 g, Cholesterol: 300 mg"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets",Vitamin C,"Fat, Sodium, Calories, Carbohydrates","Fat: 100 g, Sodium: 2300 mg, Calories: 800 kcal, Carbohydrates: 100 g"
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats","Vitamin C, Antioxidants","Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Antioxidants, Magnesium",Sodium,Sodium: 2300 mg
+GERD,"red meat, fried food, sugar","Omega-3, Fiber, Vitamin C","Saturated Fat, Caffeine, Calories","Saturated Fat: 20 g, Caffeine: 100 mg, Calories: 800 kcal"
+Hyperlipidemia,"red meat, fried food, sugar","Omega-3, Fiber, Potassium","Alcohol, Sugar, Calories","Alcohol: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Obesity,"junk food, soda, sweets, fried items","Omega-3, Potassium, Vitamin C",Calories,Calories: 800 kcal
+Sleep Apnea,"red meat, fried food, sugar","Vitamin C, Fiber","Carbohydrates, Saturated Fat","Carbohydrates: 100 g, Saturated Fat: 20 g"
+Liver Cirrhosis,"alcohol, fried foods, red meat",Omega-3,"Cholesterol, Calories, Carbohydrates","Cholesterol: 300 mg, Calories: 800 kcal, Carbohydrates: 100 g"
+Migraine - Stage 3,"red meat, fried food, sugar","Magnesium, Omega-3, Potassium","Calories, Sodium","Calories: 800 kcal, Sodium: 2300 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Magnesium, Vitamin C, Potassium","Sodium, Alcohol, Carbohydrates","Sodium: 2300 mg, Alcohol: 100 g, Carbohydrates: 100 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Magnesium,"Caffeine, Saturated Fat, Cholesterol, Sodium","Caffeine: 100 mg, Saturated Fat: 20 g, Cholesterol: 300 mg, Sodium: 2300 mg"
+Celiac Disease,"wheat, barley, rye","Fiber, Omega-3",Sodium,Sodium: 2300 mg
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat",Vitamin C,"Cholesterol, Carbohydrates","Cholesterol: 300 mg, Carbohydrates: 100 g"
+Migraine,"red meat, fried food, sugar","Antioxidants, Fiber","Sugar, Caffeine","Sugar: 36 g, Caffeine: 100 mg"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Fiber,Caffeine,Caffeine: 100 mg
+Sleep Apnea - Stage 2,"red meat, fried food, sugar",Potassium,"Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Magnesium, Omega-3","Caffeine, Fat, Sodium","Caffeine: 100 mg, Fat: 100 g, Sodium: 2300 mg"
+Metabolic Syndrome,"red meat, fried food, sugar","Vitamin C, Potassium, Omega-3",Caffeine,Caffeine: 100 mg
+Irritable Bowel Syndrome - Stage 1,"red meat, fried food, sugar","Antioxidants, Omega-3, Magnesium","Calories, Sugar, Alcohol","Calories: 800 kcal, Sugar: 36 g, Alcohol: 100 g"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods","Potassium, Omega-3, Magnesium","Fat, Caffeine, Cholesterol","Fat: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Sleep Apnea - Stage 1,"red meat, fried food, sugar","Antioxidants, Vitamin C, Potassium","Fat, Sugar","Fat: 100 g, Sugar: 36 g"
+GERD,"red meat, fried food, sugar",Potassium,Caffeine,Caffeine: 100 mg
+Hypothyroidism,"red meat, fried food, sugar","Vitamin C, Fiber, Potassium",Carbohydrates,Carbohydrates: 100 g
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Omega-3,"Alcohol, Sugar","Alcohol: 100 g, Sugar: 36 g"
+GERD - Stage 3,"red meat, fried food, sugar","Potassium, Magnesium, Omega-3",Sugar,Sugar: 36 g
+Atherosclerosis - Stage 3,"red meat, fried food, sugar",Magnesium,"Calories, Sugar, Cholesterol","Calories: 800 kcal, Sugar: 36 g, Cholesterol: 300 mg"
+Prediabetes,"sugar, white rice, soda, sweets",Fiber,"Alcohol, Sugar, Fat, Sodium","Alcohol: 100 g, Sugar: 36 g, Fat: 100 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar","Antioxidants, Fiber","Carbohydrates, Sodium","Carbohydrates: 100 g, Sodium: 2300 mg"
+Celiac Disease - Stage 3,"wheat, barley, rye","Fiber, Potassium, Vitamin C","Saturated Fat, Sugar","Saturated Fat: 20 g, Sugar: 36 g"
+Celiac Disease - Stage 3,"wheat, barley, rye","Omega-3, Vitamin C, Magnesium",Fat,Fat: 100 g
+Obesity - Stage 2,"junk food, soda, sweets, fried items",Antioxidants,"Carbohydrates, Fat, Sodium","Carbohydrates: 100 g, Fat: 100 g, Sodium: 2300 mg"
+Gout,"mutton, chicken, alcohol, organ meats","Potassium, Vitamin C",Cholesterol,Cholesterol: 300 mg
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Fiber, Potassium",Saturated Fat,Saturated Fat: 20 g
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Vitamin C, Omega-3, Antioxidants","Fat, Cholesterol","Fat: 100 g, Cholesterol: 300 mg"
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Vitamin C, Antioxidants","Caffeine, Sodium, Saturated Fat, Sugar","Caffeine: 100 mg, Sodium: 2300 mg, Saturated Fat: 20 g, Sugar: 36 g"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon","Magnesium, Vitamin C","Cholesterol, Fat, Saturated Fat","Cholesterol: 300 mg, Fat: 100 g, Saturated Fat: 20 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Vitamin C","Caffeine, Carbohydrates, Alcohol","Caffeine: 100 mg, Carbohydrates: 100 g, Alcohol: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Magnesium,Cholesterol,Cholesterol: 300 mg
+Heart Failure,"trans fats, red meat, sugary foods",Fiber,"Calories, Caffeine, Saturated Fat","Calories: 800 kcal, Caffeine: 100 mg, Saturated Fat: 20 g"
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Potassium, Antioxidants, Vitamin C",Calories,Calories: 800 kcal
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Potassium,"Fat, Calories, Sugar","Fat: 100 g, Calories: 800 kcal, Sugar: 36 g"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Omega-3, Vitamin C, Magnesium","Saturated Fat, Calories","Saturated Fat: 20 g, Calories: 800 kcal"
+Prediabetes,"sugar, white rice, soda, sweets",Vitamin C,"Carbohydrates, Sugar, Cholesterol","Carbohydrates: 100 g, Sugar: 36 g, Cholesterol: 300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Omega-3, Potassium","Fat, Calories, Sugar, Alcohol","Fat: 100 g, Calories: 800 kcal, Sugar: 36 g, Alcohol: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Magnesium, Fiber, Antioxidants",Sugar,Sugar: 36 g
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat",Omega-3,"Calories, Alcohol, Cholesterol, Sugar","Calories: 800 kcal, Alcohol: 100 g, Cholesterol: 300 mg, Sugar: 36 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Vitamin C, Fiber, Magnesium","Sugar, Fat","Sugar: 36 g, Fat: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon","Vitamin C, Omega-3, Fiber",Cholesterol,Cholesterol: 300 mg
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Potassium, Antioxidants, Fiber",Alcohol,Alcohol: 100 g
+Irritable Bowel Syndrome,"red meat, fried food, sugar",Omega-3,Calories,Calories: 800 kcal
+Migraine,"red meat, fried food, sugar","Omega-3, Antioxidants, Magnesium","Sugar, Sodium, Alcohol","Sugar: 36 g, Sodium: 2300 mg, Alcohol: 100 g"
+Sleep Apnea - Stage 3,"red meat, fried food, sugar",Vitamin C,"Sodium, Cholesterol","Sodium: 2300 mg, Cholesterol: 300 mg"
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Fiber, Omega-3, Vitamin C",Fat,Fat: 100 g
+Fatty Liver Disease,"alcohol, fried foods, red meat","Fiber, Potassium",Saturated Fat,Saturated Fat: 20 g
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Omega-3, Fiber","Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Atherosclerosis,"red meat, fried food, sugar",Omega-3,"Sodium, Cholesterol, Sugar, Saturated Fat","Sodium: 2300 mg, Cholesterol: 300 mg, Sugar: 36 g, Saturated Fat: 20 g"
+Hyperlipidemia,"red meat, fried food, sugar","Vitamin C, Potassium, Antioxidants","Cholesterol, Sodium","Cholesterol: 300 mg, Sodium: 2300 mg"
+Sleep Apnea,"red meat, fried food, sugar",Omega-3,"Carbohydrates, Caffeine, Alcohol, Sodium","Carbohydrates: 100 g, Caffeine: 100 mg, Alcohol: 100 g, Sodium: 2300 mg"
+Sleep Apnea - Stage 2,"red meat, fried food, sugar","Potassium, Vitamin C",Cholesterol,Cholesterol: 300 mg
+Migraine,"red meat, fried food, sugar","Antioxidants, Fiber, Omega-3","Carbohydrates, Caffeine","Carbohydrates: 100 g, Caffeine: 100 mg"
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon","Magnesium, Antioxidants",Sugar,Sugar: 36 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon","Fiber, Vitamin C, Omega-3","Calories, Saturated Fat, Caffeine, Cholesterol","Calories: 800 kcal, Saturated Fat: 20 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods",Magnesium,"Fat, Sugar, Carbohydrates, Calories","Fat: 100 g, Sugar: 36 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Vitamin C, Potassium","Sodium, Fat","Sodium: 2300 mg, Fat: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Omega-3, Fiber, Magnesium",Caffeine,Caffeine: 100 mg
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Omega-3, Magnesium, Fiber","Fat, Alcohol, Sugar","Fat: 100 g, Alcohol: 100 g, Sugar: 36 g"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Omega-3,"Saturated Fat, Alcohol, Carbohydrates, Sugar","Saturated Fat: 20 g, Alcohol: 100 g, Carbohydrates: 100 g, Sugar: 36 g"
+GERD - Stage 3,"red meat, fried food, sugar","Vitamin C, Antioxidants, Omega-3",Caffeine,Caffeine: 100 mg
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Potassium, Vitamin C","Cholesterol, Calories, Sugar, Sodium","Cholesterol: 300 mg, Calories: 800 kcal, Sugar: 36 g, Sodium: 2300 mg"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Potassium,"Fat, Calories, Sodium, Saturated Fat","Fat: 100 g, Calories: 800 kcal, Sodium: 2300 mg, Saturated Fat: 20 g"
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar",Potassium,Sugar,Sugar: 36 g
+Heart Failure,"trans fats, red meat, sugary foods","Potassium, Omega-3",Cholesterol,Cholesterol: 300 mg
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Potassium, Antioxidants","Sugar, Caffeine, Sodium, Fat","Sugar: 36 g, Caffeine: 100 mg, Sodium: 2300 mg, Fat: 100 g"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Antioxidants, Omega-3","Caffeine, Fat, Alcohol, Sodium","Caffeine: 100 mg, Fat: 100 g, Alcohol: 100 g, Sodium: 2300 mg"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Omega-3, Antioxidants, Vitamin C",Alcohol,Alcohol: 100 g
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar","Potassium, Antioxidants, Vitamin C",Carbohydrates,Carbohydrates: 100 g
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Fiber,"Alcohol, Caffeine, Cholesterol","Alcohol: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Irritable Bowel Syndrome - Stage 1,"red meat, fried food, sugar",Antioxidants,"Alcohol, Carbohydrates, Sugar, Saturated Fat","Alcohol: 100 g, Carbohydrates: 100 g, Sugar: 36 g, Saturated Fat: 20 g"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar",Vitamin C,Cholesterol,Cholesterol: 300 mg
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats",Omega-3,"Saturated Fat, Alcohol, Fat","Saturated Fat: 20 g, Alcohol: 100 g, Fat: 100 g"
+Sleep Apnea,"red meat, fried food, sugar","Magnesium, Fiber","Caffeine, Alcohol, Sugar, Calories","Caffeine: 100 mg, Alcohol: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods",Omega-3,"Fat, Saturated Fat, Caffeine","Fat: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat","Fiber, Omega-3, Magnesium","Sodium, Saturated Fat, Cholesterol","Sodium: 2300 mg, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Magnesium, Antioxidants, Vitamin C","Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar","Antioxidants, Magnesium, Potassium","Caffeine, Calories","Caffeine: 100 mg, Calories: 800 kcal"
+Gout - Stage 1,"mutton, chicken, alcohol, organ meats","Magnesium, Potassium, Vitamin C","Sodium, Alcohol, Saturated Fat, Sugar","Sodium: 2300 mg, Alcohol: 100 g, Saturated Fat: 20 g, Sugar: 36 g"
+Hyperlipidemia,"red meat, fried food, sugar","Fiber, Antioxidants, Magnesium","Calories, Cholesterol, Saturated Fat","Calories: 800 kcal, Cholesterol: 300 mg, Saturated Fat: 20 g"
+Hyperlipidemia,"red meat, fried food, sugar","Antioxidants, Potassium, Magnesium","Sodium, Caffeine, Alcohol","Sodium: 2300 mg, Caffeine: 100 mg, Alcohol: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Fiber, Antioxidants","Alcohol, Carbohydrates, Sugar, Cholesterol","Alcohol: 100 g, Carbohydrates: 100 g, Sugar: 36 g, Cholesterol: 300 mg"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Fiber, Potassium, Magnesium","Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Magnesium, Antioxidants","Sugar, Fat, Calories, Sodium","Sugar: 36 g, Fat: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar",Potassium,"Alcohol, Sodium","Alcohol: 100 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome - Stage 2,"red meat, fried food, sugar",Fiber,"Sugar, Cholesterol, Carbohydrates, Caffeine","Sugar: 36 g, Cholesterol: 300 mg, Carbohydrates: 100 g, Caffeine: 100 mg"
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Antioxidants, Vitamin C",Sodium,Sodium: 2300 mg
+Heart Failure,"trans fats, red meat, sugary foods",Magnesium,"Caffeine, Sugar, Fat","Caffeine: 100 mg, Sugar: 36 g, Fat: 100 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods",Antioxidants,"Fat, Caffeine, Cholesterol","Fat: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Hyperlipidemia,"red meat, fried food, sugar",Omega-3,"Caffeine, Saturated Fat, Calories, Sodium","Caffeine: 100 mg, Saturated Fat: 20 g, Calories: 800 kcal, Sodium: 2300 mg"
+Hyperlipidemia,"red meat, fried food, sugar","Magnesium, Antioxidants","Sugar, Caffeine, Cholesterol","Sugar: 36 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat","Vitamin C, Antioxidants","Cholesterol, Saturated Fat, Sodium, Sugar","Cholesterol: 300 mg, Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g"
+Celiac Disease,"wheat, barley, rye",Antioxidants,"Sodium, Carbohydrates, Sugar, Calories","Sodium: 2300 mg, Carbohydrates: 100 g, Sugar: 36 g, Calories: 800 kcal"
+Gout,"mutton, chicken, alcohol, organ meats","Fiber, Potassium",Cholesterol,Cholesterol: 300 mg
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Vitamin C, Omega-3, Fiber","Saturated Fat, Caffeine, Calories, Sugar","Saturated Fat: 20 g, Caffeine: 100 mg, Calories: 800 kcal, Sugar: 36 g"
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Magnesium,Sodium,Sodium: 2300 mg
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Omega-3, Magnesium",Cholesterol,Cholesterol: 300 mg
+Fatty Liver Disease,"alcohol, fried foods, red meat",Magnesium,"Caffeine, Sodium","Caffeine: 100 mg, Sodium: 2300 mg"
+Hyperlipidemia,"red meat, fried food, sugar",Vitamin C,"Carbohydrates, Sugar","Carbohydrates: 100 g, Sugar: 36 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Vitamin C, Omega-3","Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Migraine - Stage 1,"red meat, fried food, sugar",Magnesium,"Alcohol, Sodium, Saturated Fat, Carbohydrates","Alcohol: 100 g, Sodium: 2300 mg, Saturated Fat: 20 g, Carbohydrates: 100 g"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Vitamin C, Magnesium","Sugar, Calories","Sugar: 36 g, Calories: 800 kcal"
+Migraine - Stage 3,"red meat, fried food, sugar","Vitamin C, Potassium",Carbohydrates,Carbohydrates: 100 g
+Liver Cirrhosis,"alcohol, fried foods, red meat","Fiber, Magnesium",Cholesterol,Cholesterol: 300 mg
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Magnesium, Omega-3","Carbohydrates, Fat, Caffeine","Carbohydrates: 100 g, Fat: 100 g, Caffeine: 100 mg"
+Hypertension,"salt, pickles, canned soup, bacon","Fiber, Potassium, Antioxidants",Sodium,Sodium: 2300 mg
+Sleep Apnea,"red meat, fried food, sugar","Fiber, Omega-3, Potassium","Alcohol, Cholesterol","Alcohol: 100 g, Cholesterol: 300 mg"
+Sleep Apnea,"red meat, fried food, sugar","Antioxidants, Omega-3","Alcohol, Saturated Fat","Alcohol: 100 g, Saturated Fat: 20 g"
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Omega-3, Vitamin C, Antioxidants","Alcohol, Cholesterol","Alcohol: 100 g, Cholesterol: 300 mg"
+Heart Failure,"trans fats, red meat, sugary foods","Magnesium, Antioxidants, Fiber","Fat, Alcohol, Caffeine, Sugar","Fat: 100 g, Alcohol: 100 g, Caffeine: 100 mg, Sugar: 36 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Potassium, Magnesium","Fat, Saturated Fat, Sodium, Caffeine","Fat: 100 g, Saturated Fat: 20 g, Sodium: 2300 mg, Caffeine: 100 mg"
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods",Fiber,"Saturated Fat, Carbohydrates, Fat, Calories","Saturated Fat: 20 g, Carbohydrates: 100 g, Fat: 100 g, Calories: 800 kcal"
+Hypertension,"salt, pickles, canned soup, bacon",Vitamin C,"Cholesterol, Fat, Caffeine, Calories","Cholesterol: 300 mg, Fat: 100 g, Caffeine: 100 mg, Calories: 800 kcal"
+Heart Failure,"trans fats, red meat, sugary foods",Omega-3,"Calories, Alcohol, Carbohydrates","Calories: 800 kcal, Alcohol: 100 g, Carbohydrates: 100 g"
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Antioxidants,"Sugar, Fat, Carbohydrates, Calories","Sugar: 36 g, Fat: 100 g, Carbohydrates: 100 g, Calories: 800 kcal"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Omega-3, Potassium, Vitamin C","Carbohydrates, Fat","Carbohydrates: 100 g, Fat: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Magnesium, Omega-3","Caffeine, Fat, Cholesterol","Caffeine: 100 mg, Fat: 100 g, Cholesterol: 300 mg"
+Migraine - Stage 3,"red meat, fried food, sugar","Magnesium, Antioxidants, Vitamin C","Alcohol, Cholesterol, Caffeine, Fat","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg, Fat: 100 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Omega-3, Magnesium, Antioxidants","Carbohydrates, Saturated Fat, Caffeine","Carbohydrates: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat",Fiber,"Caffeine, Cholesterol","Caffeine: 100 mg, Cholesterol: 300 mg"
+Liver Cirrhosis,"alcohol, fried foods, red meat","Antioxidants, Fiber","Carbohydrates, Saturated Fat, Caffeine, Fat","Carbohydrates: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg, Fat: 100 g"
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Fiber, Magnesium","Alcohol, Fat, Saturated Fat, Caffeine","Alcohol: 100 g, Fat: 100 g, Saturated Fat: 20 g, Caffeine: 100 mg"
+Celiac Disease - Stage 2,"wheat, barley, rye","Potassium, Antioxidants, Omega-3","Calories, Fat, Sodium","Calories: 800 kcal, Fat: 100 g, Sodium: 2300 mg"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Potassium, Fiber",Saturated Fat,Saturated Fat: 20 g
+Atherosclerosis - Stage 1,"red meat, fried food, sugar",Vitamin C,"Cholesterol, Sugar, Saturated Fat, Carbohydrates","Cholesterol: 300 mg, Sugar: 36 g, Saturated Fat: 20 g, Carbohydrates: 100 g"
+Metabolic Syndrome,"red meat, fried food, sugar",Antioxidants,Caffeine,Caffeine: 100 mg
+Hyperlipidemia,"red meat, fried food, sugar","Omega-3, Vitamin C",Sugar,Sugar: 36 g
+Metabolic Syndrome,"red meat, fried food, sugar",Fiber,Alcohol,Alcohol: 100 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon","Vitamin C, Fiber, Magnesium","Carbohydrates, Sodium, Fat, Cholesterol","Carbohydrates: 100 g, Sodium: 2300 mg, Fat: 100 g, Cholesterol: 300 mg"
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Potassium","Saturated Fat, Sodium","Saturated Fat: 20 g, Sodium: 2300 mg"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods",Potassium,Sugar,Sugar: 36 g
+Migraine,"red meat, fried food, sugar","Vitamin C, Magnesium, Omega-3","Sugar, Alcohol","Sugar: 36 g, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Antioxidants, Omega-3, Fiber","Caffeine, Alcohol","Caffeine: 100 mg, Alcohol: 100 g"
+Hypothyroidism - Stage 2,"red meat, fried food, sugar","Omega-3, Vitamin C","Sugar, Cholesterol, Fat, Caffeine","Sugar: 36 g, Cholesterol: 300 mg, Fat: 100 g, Caffeine: 100 mg"
+GERD,"red meat, fried food, sugar","Omega-3, Potassium, Magnesium",Carbohydrates,Carbohydrates: 100 g
+Celiac Disease,"wheat, barley, rye","Magnesium, Potassium","Cholesterol, Caffeine, Calories","Cholesterol: 300 mg, Caffeine: 100 mg, Calories: 800 kcal"
+Obesity,"junk food, soda, sweets, fried items","Antioxidants, Vitamin C","Sugar, Sodium, Fat, Calories","Sugar: 36 g, Sodium: 2300 mg, Fat: 100 g, Calories: 800 kcal"
+Hyperlipidemia,"red meat, fried food, sugar",Omega-3,"Caffeine, Sodium","Caffeine: 100 mg, Sodium: 2300 mg"
+Liver Cirrhosis - Stage 1,"alcohol, fried foods, red meat","Vitamin C, Potassium, Fiber","Calories, Alcohol, Sugar, Sodium","Calories: 800 kcal, Alcohol: 100 g, Sugar: 36 g, Sodium: 2300 mg"
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Vitamin C, Antioxidants, Magnesium","Saturated Fat, Caffeine, Alcohol, Cholesterol","Saturated Fat: 20 g, Caffeine: 100 mg, Alcohol: 100 g, Cholesterol: 300 mg"
+Hyperlipidemia,"red meat, fried food, sugar",Antioxidants,"Fat, Saturated Fat, Cholesterol, Carbohydrates","Fat: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg, Carbohydrates: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon",Magnesium,"Alcohol, Calories, Sodium, Carbohydrates","Alcohol: 100 g, Calories: 800 kcal, Sodium: 2300 mg, Carbohydrates: 100 g"
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Vitamin C, Antioxidants, Magnesium","Cholesterol, Caffeine, Calories","Cholesterol: 300 mg, Caffeine: 100 mg, Calories: 800 kcal"
+Migraine,"red meat, fried food, sugar","Omega-3, Vitamin C, Potassium",Carbohydrates,Carbohydrates: 100 g
+Liver Cirrhosis,"alcohol, fried foods, red meat","Magnesium, Omega-3, Vitamin C","Calories, Saturated Fat, Fat, Alcohol","Calories: 800 kcal, Saturated Fat: 20 g, Fat: 100 g, Alcohol: 100 g"
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats",Magnesium,Carbohydrates,Carbohydrates: 100 g
+Hypertension,"salt, pickles, canned soup, bacon","Fiber, Omega-3","Fat, Caffeine, Alcohol","Fat: 100 g, Caffeine: 100 mg, Alcohol: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Potassium, Magnesium",Sugar,Sugar: 36 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Magnesium,Saturated Fat,Saturated Fat: 20 g
+GERD,"red meat, fried food, sugar","Antioxidants, Potassium, Fiber","Caffeine, Sugar, Saturated Fat","Caffeine: 100 mg, Sugar: 36 g, Saturated Fat: 20 g"
+Polycystic Ovary Syndrome - Stage 2,"red meat, fried food, sugar","Potassium, Fiber, Antioxidants","Saturated Fat, Sugar","Saturated Fat: 20 g, Sugar: 36 g"
+Prediabetes - Stage 2,"sugar, white rice, soda, sweets","Antioxidants, Fiber",Alcohol,Alcohol: 100 g
+Hyperlipidemia - Stage 1,"red meat, fried food, sugar",Fiber,Alcohol,Alcohol: 100 g
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Omega-3, Antioxidants","Cholesterol, Sugar, Saturated Fat","Cholesterol: 300 mg, Sugar: 36 g, Saturated Fat: 20 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Omega-3,"Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Antioxidants, Potassium, Magnesium",Sodium,Sodium: 2300 mg
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Omega-3,"Caffeine, Calories, Alcohol","Caffeine: 100 mg, Calories: 800 kcal, Alcohol: 100 g"
+Celiac Disease,"wheat, barley, rye","Fiber, Magnesium, Vitamin C",Alcohol,Alcohol: 100 g
+Heart Failure,"trans fats, red meat, sugary foods","Fiber, Vitamin C",Carbohydrates,Carbohydrates: 100 g
+Hyperlipidemia,"red meat, fried food, sugar","Fiber, Omega-3, Antioxidants","Caffeine, Carbohydrates, Sodium, Fat","Caffeine: 100 mg, Carbohydrates: 100 g, Sodium: 2300 mg, Fat: 100 g"
+Heart Failure,"trans fats, red meat, sugary foods","Vitamin C, Magnesium","Calories, Saturated Fat, Sodium, Sugar","Calories: 800 kcal, Saturated Fat: 20 g, Sodium: 2300 mg, Sugar: 36 g"
+Prediabetes - Stage 1,"sugar, white rice, soda, sweets","Antioxidants, Fiber","Saturated Fat, Sugar, Fat, Caffeine","Saturated Fat: 20 g, Sugar: 36 g, Fat: 100 g, Caffeine: 100 mg"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Magnesium, Potassium, Omega-3",Saturated Fat,Saturated Fat: 20 g
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat","Antioxidants, Magnesium, Omega-3","Saturated Fat, Alcohol","Saturated Fat: 20 g, Alcohol: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Fiber, Omega-3",Alcohol,Alcohol: 100 g
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Magnesium, Vitamin C",Caffeine,Caffeine: 100 mg
+Migraine,"red meat, fried food, sugar",Vitamin C,Sodium,Sodium: 2300 mg
+Celiac Disease,"wheat, barley, rye","Potassium, Antioxidants","Sugar, Sodium, Fat","Sugar: 36 g, Sodium: 2300 mg, Fat: 100 g"
+Prediabetes,"sugar, white rice, soda, sweets","Antioxidants, Potassium","Sodium, Caffeine","Sodium: 2300 mg, Caffeine: 100 mg"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets",Fiber,"Saturated Fat, Fat","Saturated Fat: 20 g, Fat: 100 g"
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Antioxidants, Potassium, Omega-3","Fat, Saturated Fat, Carbohydrates, Caffeine","Fat: 100 g, Saturated Fat: 20 g, Carbohydrates: 100 g, Caffeine: 100 mg"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods","Magnesium, Potassium","Carbohydrates, Fat, Saturated Fat","Carbohydrates: 100 g, Fat: 100 g, Saturated Fat: 20 g"
+Obesity - Stage 2,"junk food, soda, sweets, fried items",Vitamin C,Saturated Fat,Saturated Fat: 20 g
+Liver Cirrhosis,"alcohol, fried foods, red meat","Magnesium, Vitamin C","Calories, Carbohydrates, Caffeine","Calories: 800 kcal, Carbohydrates: 100 g, Caffeine: 100 mg"
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Fiber, Vitamin C, Antioxidants","Sugar, Cholesterol, Caffeine","Sugar: 36 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Metabolic Syndrome,"red meat, fried food, sugar","Magnesium, Omega-3, Potassium",Cholesterol,Cholesterol: 300 mg
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats","Potassium, Omega-3, Antioxidants","Cholesterol, Calories, Sodium","Cholesterol: 300 mg, Calories: 800 kcal, Sodium: 2300 mg"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods",Omega-3,"Alcohol, Caffeine, Cholesterol","Alcohol: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Hypertension,"salt, pickles, canned soup, bacon",Magnesium,"Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Vitamin C, Magnesium, Potassium",Sodium,Sodium: 2300 mg
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Vitamin C, Omega-3",Caffeine,Caffeine: 100 mg
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon",Antioxidants,Carbohydrates,Carbohydrates: 100 g
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Antioxidants,Calories,Calories: 800 kcal
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Fiber, Potassium","Carbohydrates, Calories","Carbohydrates: 100 g, Calories: 800 kcal"
+Hypertension,"salt, pickles, canned soup, bacon","Magnesium, Antioxidants",Saturated Fat,Saturated Fat: 20 g
+Hypothyroidism,"red meat, fried food, sugar","Fiber, Vitamin C",Fat,Fat: 100 g
+Hypertension,"salt, pickles, canned soup, bacon",Vitamin C,Calories,Calories: 800 kcal
+Heart Failure,"trans fats, red meat, sugary foods",Vitamin C,Saturated Fat,Saturated Fat: 20 g
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Fiber, Antioxidants, Vitamin C","Alcohol, Fat, Saturated Fat","Alcohol: 100 g, Fat: 100 g, Saturated Fat: 20 g"
+GERD - Stage 3,"red meat, fried food, sugar",Omega-3,Carbohydrates,Carbohydrates: 100 g
+Fatty Liver Disease - Stage 3,"alcohol, fried foods, red meat","Potassium, Magnesium, Omega-3","Cholesterol, Calories, Sodium","Cholesterol: 300 mg, Calories: 800 kcal, Sodium: 2300 mg"
+Hypothyroidism,"red meat, fried food, sugar","Potassium, Omega-3, Antioxidants","Sodium, Fat, Calories, Caffeine","Sodium: 2300 mg, Fat: 100 g, Calories: 800 kcal, Caffeine: 100 mg"
+Hypertension,"salt, pickles, canned soup, bacon","Fiber, Vitamin C",Alcohol,Alcohol: 100 g
+Atherosclerosis,"red meat, fried food, sugar","Fiber, Antioxidants",Alcohol,Alcohol: 100 g
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Vitamin C, Fiber","Fat, Saturated Fat","Fat: 100 g, Saturated Fat: 20 g"
+Prediabetes - Stage 1,"sugar, white rice, soda, sweets",Fiber,"Alcohol, Carbohydrates","Alcohol: 100 g, Carbohydrates: 100 g"
+Celiac Disease,"wheat, barley, rye","Fiber, Potassium","Fat, Calories","Fat: 100 g, Calories: 800 kcal"
+Coronary Artery Disease - Stage 2,"trans fats, red meat, sugary foods","Vitamin C, Fiber","Carbohydrates, Saturated Fat, Cholesterol","Carbohydrates: 100 g, Saturated Fat: 20 g, Cholesterol: 300 mg"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Fiber, Antioxidants",Fat,Fat: 100 g
+Hyperlipidemia,"red meat, fried food, sugar","Potassium, Magnesium","Cholesterol, Calories","Cholesterol: 300 mg, Calories: 800 kcal"
+Type 2 Diabetes - Stage 2,"sugar, white rice, soda, sweets","Vitamin C, Magnesium","Sodium, Calories, Caffeine, Cholesterol","Sodium: 2300 mg, Calories: 800 kcal, Caffeine: 100 mg, Cholesterol: 300 mg"
+Metabolic Syndrome - Stage 2,"red meat, fried food, sugar","Magnesium, Omega-3, Fiber","Cholesterol, Caffeine","Cholesterol: 300 mg, Caffeine: 100 mg"
+Obesity - Stage 1,"junk food, soda, sweets, fried items","Omega-3, Antioxidants, Vitamin C","Calories, Sugar, Alcohol","Calories: 800 kcal, Sugar: 36 g, Alcohol: 100 g"
+Obesity - Stage 1,"junk food, soda, sweets, fried items",Vitamin C,"Cholesterol, Sodium, Fat","Cholesterol: 300 mg, Sodium: 2300 mg, Fat: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Omega-3,"Sodium, Sugar, Cholesterol, Alcohol","Sodium: 2300 mg, Sugar: 36 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Antioxidants, Omega-3","Sodium, Sugar, Calories, Alcohol","Sodium: 2300 mg, Sugar: 36 g, Calories: 800 kcal, Alcohol: 100 g"
+Gout - Stage 1,"mutton, chicken, alcohol, organ meats",Vitamin C,"Cholesterol, Caffeine, Carbohydrates, Sodium","Cholesterol: 300 mg, Caffeine: 100 mg, Carbohydrates: 100 g, Sodium: 2300 mg"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Antioxidants, Potassium, Omega-3","Saturated Fat, Alcohol, Carbohydrates, Cholesterol","Saturated Fat: 20 g, Alcohol: 100 g, Carbohydrates: 100 g, Cholesterol: 300 mg"
+Atherosclerosis,"red meat, fried food, sugar","Magnesium, Fiber","Cholesterol, Calories, Alcohol","Cholesterol: 300 mg, Calories: 800 kcal, Alcohol: 100 g"
+Atherosclerosis - Stage 1,"red meat, fried food, sugar",Antioxidants,"Caffeine, Fat","Caffeine: 100 mg, Fat: 100 g"
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Vitamin C, Fiber, Omega-3","Fat, Cholesterol, Sodium","Fat: 100 g, Cholesterol: 300 mg, Sodium: 2300 mg"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Fiber, Omega-3",Cholesterol,Cholesterol: 300 mg
+Coronary Artery Disease,"trans fats, red meat, sugary foods","Vitamin C, Magnesium, Potassium",Cholesterol,Cholesterol: 300 mg
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Potassium, Magnesium",Alcohol,Alcohol: 100 g
+Metabolic Syndrome,"red meat, fried food, sugar","Antioxidants, Fiber","Carbohydrates, Alcohol, Sodium, Sugar","Carbohydrates: 100 g, Alcohol: 100 g, Sodium: 2300 mg, Sugar: 36 g"
+Migraine - Stage 2,"red meat, fried food, sugar","Omega-3, Fiber",Caffeine,Caffeine: 100 mg
+Coronary Artery Disease - Stage 1,"trans fats, red meat, sugary foods","Fiber, Vitamin C","Sodium, Calories","Sodium: 2300 mg, Calories: 800 kcal"
+Hyperlipidemia,"red meat, fried food, sugar","Omega-3, Fiber, Potassium",Caffeine,Caffeine: 100 mg
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Magnesium, Potassium","Calories, Carbohydrates, Saturated Fat","Calories: 800 kcal, Carbohydrates: 100 g, Saturated Fat: 20 g"
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon","Omega-3, Magnesium, Antioxidants","Sugar, Carbohydrates","Sugar: 36 g, Carbohydrates: 100 g"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets",Fiber,Sodium,Sodium: 2300 mg
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Potassium, Omega-3, Fiber",Cholesterol,Cholesterol: 300 mg
+Coronary Artery Disease,"trans fats, red meat, sugary foods",Magnesium,"Sugar, Alcohol, Calories, Saturated Fat","Sugar: 36 g, Alcohol: 100 g, Calories: 800 kcal, Saturated Fat: 20 g"
+Migraine,"red meat, fried food, sugar","Magnesium, Antioxidants","Caffeine, Carbohydrates, Sugar","Caffeine: 100 mg, Carbohydrates: 100 g, Sugar: 36 g"
+Hypertension,"salt, pickles, canned soup, bacon",Potassium,"Fat, Calories, Alcohol, Sodium","Fat: 100 g, Calories: 800 kcal, Alcohol: 100 g, Sodium: 2300 mg"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Magnesium, Omega-3","Alcohol, Cholesterol, Calories","Alcohol: 100 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Migraine - Stage 2,"red meat, fried food, sugar","Potassium, Antioxidants",Caffeine,Caffeine: 100 mg
+Celiac Disease,"wheat, barley, rye","Vitamin C, Fiber","Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Sleep Apnea,"red meat, fried food, sugar","Antioxidants, Fiber","Carbohydrates, Sugar, Caffeine, Sodium","Carbohydrates: 100 g, Sugar: 36 g, Caffeine: 100 mg, Sodium: 2300 mg"
+Type 2 Diabetes - Stage 1,"sugar, white rice, soda, sweets","Fiber, Potassium, Omega-3","Alcohol, Sodium, Saturated Fat, Fat","Alcohol: 100 g, Sodium: 2300 mg, Saturated Fat: 20 g, Fat: 100 g"
+Heart Failure - Stage 3,"trans fats, red meat, sugary foods","Omega-3, Vitamin C, Magnesium","Carbohydrates, Sugar, Cholesterol, Alcohol","Carbohydrates: 100 g, Sugar: 36 g, Cholesterol: 300 mg, Alcohol: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Antioxidants, Fiber",Saturated Fat,Saturated Fat: 20 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon","Fiber, Vitamin C","Carbohydrates, Sodium, Sugar","Carbohydrates: 100 g, Sodium: 2300 mg, Sugar: 36 g"
+Migraine,"red meat, fried food, sugar","Magnesium, Vitamin C, Antioxidants",Calories,Calories: 800 kcal
+Hyperlipidemia - Stage 3,"red meat, fried food, sugar","Magnesium, Vitamin C",Caffeine,Caffeine: 100 mg
+Atherosclerosis - Stage 2,"red meat, fried food, sugar","Antioxidants, Omega-3",Sugar,Sugar: 36 g
+Sleep Apnea,"red meat, fried food, sugar","Vitamin C, Omega-3, Antioxidants",Carbohydrates,Carbohydrates: 100 g
+Hypothyroidism - Stage 3,"red meat, fried food, sugar","Vitamin C, Antioxidants",Sodium,Sodium: 2300 mg
+Migraine - Stage 1,"red meat, fried food, sugar","Potassium, Magnesium, Antioxidants","Alcohol, Sodium, Calories","Alcohol: 100 g, Sodium: 2300 mg, Calories: 800 kcal"
+Fatty Liver Disease,"alcohol, fried foods, red meat",Magnesium,Fat,Fat: 100 g
+Hypertension - Stage 1,"salt, pickles, canned soup, bacon",Fiber,Sodium,Sodium: 2300 mg
+Type 2 Diabetes - Stage 3,"sugar, white rice, soda, sweets","Omega-3, Potassium","Cholesterol, Alcohol","Cholesterol: 300 mg, Alcohol: 100 g"
+GERD - Stage 2,"red meat, fried food, sugar","Antioxidants, Magnesium, Fiber","Carbohydrates, Calories, Sodium","Carbohydrates: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Gout - Stage 3,"mutton, chicken, alcohol, organ meats","Magnesium, Potassium, Omega-3","Saturated Fat, Alcohol, Calories, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Calories: 800 kcal, Sodium: 2300 mg"
+Hypothyroidism - Stage 1,"red meat, fried food, sugar","Potassium, Antioxidants","Alcohol, Saturated Fat, Fat","Alcohol: 100 g, Saturated Fat: 20 g, Fat: 100 g"
+Type 2 Diabetes,"sugar, white rice, soda, sweets",Vitamin C,Sugar,Sugar: 36 g
+Atherosclerosis,"red meat, fried food, sugar","Antioxidants, Potassium","Caffeine, Fat, Alcohol","Caffeine: 100 mg, Fat: 100 g, Alcohol: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar","Fiber, Omega-3","Saturated Fat, Sodium, Calories, Fat","Saturated Fat: 20 g, Sodium: 2300 mg, Calories: 800 kcal, Fat: 100 g"
+Fatty Liver Disease,"alcohol, fried foods, red meat","Vitamin C, Antioxidants, Fiber",Alcohol,Alcohol: 100 g
+Chronic Kidney Disease,"red meat, sodium, potassium-rich foods","Antioxidants, Potassium","Sugar, Caffeine, Cholesterol","Sugar: 36 g, Caffeine: 100 mg, Cholesterol: 300 mg"
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon","Omega-3, Potassium, Fiber",Carbohydrates,Carbohydrates: 100 g
+Heart Failure - Stage 2,"trans fats, red meat, sugary foods","Omega-3, Antioxidants",Alcohol,Alcohol: 100 g
+Polycystic Ovary Syndrome - Stage 1,"red meat, fried food, sugar","Magnesium, Antioxidants, Omega-3","Saturated Fat, Sodium","Saturated Fat: 20 g, Sodium: 2300 mg"
+Migraine,"red meat, fried food, sugar",Antioxidants,"Fat, Caffeine, Cholesterol, Sodium","Fat: 100 g, Caffeine: 100 mg, Cholesterol: 300 mg, Sodium: 2300 mg"
+Gout,"mutton, chicken, alcohol, organ meats",Antioxidants,"Cholesterol, Fat","Cholesterol: 300 mg, Fat: 100 g"
+Polycystic Ovary Syndrome,"red meat, fried food, sugar",Potassium,"Sodium, Alcohol, Caffeine","Sodium: 2300 mg, Alcohol: 100 g, Caffeine: 100 mg"
+Migraine - Stage 2,"red meat, fried food, sugar","Fiber, Antioxidants","Sodium, Calories, Carbohydrates, Caffeine","Sodium: 2300 mg, Calories: 800 kcal, Carbohydrates: 100 g, Caffeine: 100 mg"
+Sleep Apnea,"red meat, fried food, sugar",Fiber,"Sodium, Saturated Fat, Sugar","Sodium: 2300 mg, Saturated Fat: 20 g, Sugar: 36 g"
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Potassium, Fiber",Calories,Calories: 800 kcal
+Celiac Disease,"wheat, barley, rye","Fiber, Magnesium, Antioxidants","Saturated Fat, Alcohol, Sodium, Caffeine","Saturated Fat: 20 g, Alcohol: 100 g, Sodium: 2300 mg, Caffeine: 100 mg"
+Prediabetes,"sugar, white rice, soda, sweets","Magnesium, Potassium, Fiber",Calories,Calories: 800 kcal
+Celiac Disease - Stage 1,"wheat, barley, rye","Fiber, Omega-3, Potassium","Saturated Fat, Calories","Saturated Fat: 20 g, Calories: 800 kcal"
+Hyperlipidemia - Stage 2,"red meat, fried food, sugar","Vitamin C, Fiber, Magnesium","Alcohol, Cholesterol, Caffeine","Alcohol: 100 g, Cholesterol: 300 mg, Caffeine: 100 mg"
+Celiac Disease,"wheat, barley, rye","Magnesium, Fiber",Alcohol,Alcohol: 100 g
+Hypertension - Stage 3,"salt, pickles, canned soup, bacon","Antioxidants, Fiber",Fat,Fat: 100 g
+Fatty Liver Disease - Stage 2,"alcohol, fried foods, red meat","Antioxidants, Vitamin C","Caffeine, Carbohydrates, Sodium","Caffeine: 100 mg, Carbohydrates: 100 g, Sodium: 2300 mg"
+Type 2 Diabetes,"sugar, white rice, soda, sweets","Vitamin C, Omega-3, Fiber",Calories,Calories: 800 kcal
+Atherosclerosis - Stage 3,"red meat, fried food, sugar","Potassium, Magnesium, Omega-3","Sugar, Alcohol","Sugar: 36 g, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar","Vitamin C, Fiber, Omega-3",Cholesterol,Cholesterol: 300 mg
+Celiac Disease,"wheat, barley, rye","Antioxidants, Fiber","Saturated Fat, Alcohol, Sugar, Sodium","Saturated Fat: 20 g, Alcohol: 100 g, Sugar: 36 g, Sodium: 2300 mg"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Potassium, Fiber","Caffeine, Fat, Saturated Fat, Sodium","Caffeine: 100 mg, Fat: 100 g, Saturated Fat: 20 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Antioxidants, Fiber","Cholesterol, Carbohydrates, Alcohol","Cholesterol: 300 mg, Carbohydrates: 100 g, Alcohol: 100 g"
+Liver Cirrhosis - Stage 3,"alcohol, fried foods, red meat","Vitamin C, Antioxidants",Cholesterol,Cholesterol: 300 mg
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Vitamin C, Magnesium, Fiber","Fat, Calories, Carbohydrates, Alcohol","Fat: 100 g, Calories: 800 kcal, Carbohydrates: 100 g, Alcohol: 100 g"
+Hyperlipidemia,"red meat, fried food, sugar",Fiber,"Saturated Fat, Caffeine","Saturated Fat: 20 g, Caffeine: 100 mg"
+Type 2 Diabetes,"sugar, white rice, soda, sweets",Fiber,"Sodium, Calories, Saturated Fat, Sugar","Sodium: 2300 mg, Calories: 800 kcal, Saturated Fat: 20 g, Sugar: 36 g"
+Migraine,"red meat, fried food, sugar",Omega-3,"Saturated Fat, Caffeine, Alcohol, Fat","Saturated Fat: 20 g, Caffeine: 100 mg, Alcohol: 100 g, Fat: 100 g"
+Hypertension,"salt, pickles, canned soup, bacon",Antioxidants,"Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Polycystic Ovary Syndrome - Stage 3,"red meat, fried food, sugar","Fiber, Antioxidants, Omega-3","Calories, Saturated Fat, Alcohol","Calories: 800 kcal, Saturated Fat: 20 g, Alcohol: 100 g"
+Chronic Kidney Disease - Stage 1,"red meat, sodium, potassium-rich foods","Omega-3, Fiber, Antioxidants","Carbohydrates, Alcohol","Carbohydrates: 100 g, Alcohol: 100 g"
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Fiber, Antioxidants","Sugar, Caffeine, Calories","Sugar: 36 g, Caffeine: 100 mg, Calories: 800 kcal"
+Celiac Disease,"wheat, barley, rye",Antioxidants,"Sugar, Alcohol, Cholesterol, Calories","Sugar: 36 g, Alcohol: 100 g, Cholesterol: 300 mg, Calories: 800 kcal"
+Obesity,"junk food, soda, sweets, fried items",Fiber,"Cholesterol, Alcohol, Carbohydrates, Fat","Cholesterol: 300 mg, Alcohol: 100 g, Carbohydrates: 100 g, Fat: 100 g"
+Obesity - Stage 3,"junk food, soda, sweets, fried items","Antioxidants, Omega-3",Carbohydrates,Carbohydrates: 100 g
+Liver Cirrhosis - Stage 2,"alcohol, fried foods, red meat","Antioxidants, Fiber, Omega-3","Cholesterol, Saturated Fat, Alcohol","Cholesterol: 300 mg, Saturated Fat: 20 g, Alcohol: 100 g"
+Hypothyroidism,"red meat, fried food, sugar","Vitamin C, Fiber",Calories,Calories: 800 kcal
+Gout - Stage 2,"mutton, chicken, alcohol, organ meats","Antioxidants, Omega-3","Fat, Carbohydrates, Sodium","Fat: 100 g, Carbohydrates: 100 g, Sodium: 2300 mg"
+Irritable Bowel Syndrome,"red meat, fried food, sugar","Antioxidants, Vitamin C","Calories, Cholesterol, Caffeine, Alcohol","Calories: 800 kcal, Cholesterol: 300 mg, Caffeine: 100 mg, Alcohol: 100 g"
+Celiac Disease - Stage 3,"wheat, barley, rye",Omega-3,Cholesterol,Cholesterol: 300 mg
+Hypertension - Stage 2,"salt, pickles, canned soup, bacon",Omega-3,"Saturated Fat, Alcohol, Sugar, Cholesterol","Saturated Fat: 20 g, Alcohol: 100 g, Sugar: 36 g, Cholesterol: 300 mg"
+Obesity - Stage 2,"junk food, soda, sweets, fried items","Vitamin C, Fiber, Antioxidants","Cholesterol, Sugar","Cholesterol: 300 mg, Sugar: 36 g"
+Gout,"mutton, chicken, alcohol, organ meats",Vitamin C,"Alcohol, Sugar","Alcohol: 100 g, Sugar: 36 g"
+GERD - Stage 2,"red meat, fried food, sugar",Omega-3,"Saturated Fat, Calories, Caffeine, Cholesterol","Saturated Fat: 20 g, Calories: 800 kcal, Caffeine: 100 mg, Cholesterol: 300 mg"

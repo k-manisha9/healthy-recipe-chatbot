@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Recipe Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <button id="new-chat-btn">New Chat</button>
+            <button id="get-diet-plan">Get Diet Plan</button>
+            <h3>Your Chats</h3>
+            <ul id="saved-chats" class="savedchats"></ul> <!-- ADD THIS -->
+        </aside>
+
+        <!-- Main Chat Window -->
+        <main class="chat-container">
+            <header class="chat-header">
+                <h2>Healthy Recipe Chatbot</h2>
+                
+                <!-- Login/Logout Section -->
+                <div class="auth-section">
+                    {% if current_user.is_authenticated %}
+                        <!-- If the user is logged in, show a welcome message and a logout option -->
+                        <p>Welcome, {{ current_user.id }}!</p>
+                        <a href="{{ url_for('main.logout') }}">Logout</a>
+                    {% else %}
+                        <!-- If the user is not logged in, show the login and register options -->
+                        <a href="{{ url_for('main.login') }}">Login</a> or 
+                        <a href="{{ url_for('main.register') }}">Register</a>
+                    {% endif %}
+                </div>
+            </header>
+
+            <section id="chat-window" class="chat-window"></section>
+            <footer class="chat-input">
+                <input type="text" id="user-input" placeholder="Enter ingredients..." />
+                <button id="send-btn"><i class="fas fa-paper-plane"></i></button>
+            </footer>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+</body>
+</html>
