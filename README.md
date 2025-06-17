@@ -1,5 +1,10 @@
 # 🥗 Personalized Healthy Recipe Chatbot
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Flask](https://img.shields.io/badge/flask-2.1-green)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 An intelligent AI-powered chatbot that provides personalized diet plans and recipe suggestions based on individual health profiles, dietary restrictions, and diseases. It integrates **machine learning**, **natural language processing**, and **nutrition science** to ensure healthy and personalized meal guidance.
 
 ---
@@ -43,7 +48,6 @@ An intelligent AI-powered chatbot that provides personalized diet plans and reci
 RecipeChatbot/
 ├── static/                   # CSS, JS files
 ├── templates/                # HTML templates
-├── venv/                     # Virtual environment (ignored)
 ├── weekly_meal_plan.csv      # Generated weekly plan
 ├── dataset.csv               # Nutrition + Disease-aware recipe dataset
 ├── routes.py                 # Flask routes
@@ -96,10 +100,7 @@ python routes.py
 
 
 ## 📷 Screenshots
-This is the register and login page:
-![Chatbot UI](assets/register.jpg)
-![Chatbot UI](assets/login.jpg)
-Here’s a sample conversation with the chatbot:
+### 🧠 Chatbot Conversation  
 ![Chatbot UI](assets/normal1.jpg)
 ![Chatbot UI](assets/normal2.jpg)
 ![Chatbot UI](assets/normal3.jpg)
@@ -112,7 +113,7 @@ Here’s a sample conversation with the chatbot:
 ![Chatbot UI](assets/search2.jpg)
 ![Chatbot UI](assets/search3.jpg)
 ![Chatbot UI](assets/search4.jpg)
-Here’s a sample conversation with the chatbot and the diet plan generated:
+### 🍽️ Generated Meal Plan  
 ![Chatbot UI](assets/diet1.jpg)
 ![Chatbot UI](assets/diet2.jpg)
 ![Chatbot UI](assets/diet3.jpg)
