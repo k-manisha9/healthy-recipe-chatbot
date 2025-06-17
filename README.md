@@ -96,11 +96,27 @@ python routes.py
 
 
 ## 📷 Screenshots
+This is the register and login page:
+![Chatbot UI](assets/register.jpg)
+![Chatbot UI](assets/login.jpg)
 Here’s a sample conversation with the chatbot:
-![WhatsApp Image 2025-06-09 at 00 03 27_d7d110ad](https://github.com/user-attachments/assets/25404a30-3687-4cda-bc0a-c769ccc11210)
-![WhatsApp Image 2025-06-09 at 00 03 12_5f4e1bc4](https://github.com/user-attachments/assets/696dcd69-22b3-4974-ae07-7023d6a71183)
-![WhatsApp Image 2025-06-06 at 5 46 42 PM](https://github.com/user-attachments/assets/9795aa19-0a8d-4ff1-8ca1-4d3d235f66ae)
-![WhatsApp Image 2025-06-06 at 5 46 42 PM (1)](https://github.com/user-attachments/assets/b9493ac8-adef-46c9-839c-fa3f83d38f32)
+![Chatbot UI](assets/normal1.jpg)
+![Chatbot UI](assets/normal2.jpg)
+![Chatbot UI](assets/normal3.jpg)
+![Chatbot UI](assets/disease1.jpg)
+![Chatbot UI](assets/disease2.jpg)
+![Chatbot UI](assets/disease3.jpg)
+![Chatbot UI](assets/details1.jpg)
+![Chatbot UI](assets/details2.jpg)
+![Chatbot UI](assets/search1.jpg)
+![Chatbot UI](assets/search2.jpg)
+![Chatbot UI](assets/search3.jpg)
+![Chatbot UI](assets/search4.jpg)
+Here’s a sample conversation with the chatbot and the diet plan generated:
+![Chatbot UI](assets/diet1.jpg)
+![Chatbot UI](assets/diet2.jpg)
+![Chatbot UI](assets/diet3.jpg)
+![Chatbot UI](assets/diet4.jpg)
 
 
 
