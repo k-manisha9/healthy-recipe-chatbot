@@ -86,10 +86,10 @@ python routes.py
 
 ## 🧪 Sample Inputs
 ```bash
-
-“Suggest meals for a diabetic person aged 45 who wants to lose weight.”
-“Plan a weekly meal for a person with kidney disease and high blood pressure.”
-“What can I eat if I’m allergic to nuts and want high protein?”
+"I have diabetes and want to eat paneer dish"
+"I want recipes with chicken and rice."
+"I need low-sugar recipes for diabetes"
+"suggest me recipes with rice. i have high bp"
 ```
 
 
