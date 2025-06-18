@@ -77,16 +77,10 @@ source venv/bin/activate  # On Mac/Linux
 
 3. **Install dependencies**
 ```bash
-bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 4. **Run the app**
 ```bash
-bash
-Copy
-Edit
 python routes.py
 ```
 
